@@ -1,0 +1,1501 @@
+Loan_id,Customer_id,Current Loan Amount,Term,Annual Income,Years in current job,Home Ownership,Purpose,Monthly Debt
+LN-1000001,PIOC70NJ1K,485892.0,Long Term,2059999.0,10+ years,Home Mortgage,Debt Consolidation,33423.47
+LN-1000002,N5F6P740Z7,223146.0,Short Term,735072.0,1 year,Rent,Debt Consolidation,15436.55
+LN-1000003,KT93469CR4,108768.0,Short Term,,10+ years,Home Mortgage,Other,8869.01
+LN-1000004,F2GP9KE8R3,112178.0,Short Term,,2 years,Rent,Debt Consolidation,10868.95
+LN-1000005,0RPMCK8MBT,337524.0,Short Term,1224284.0,5 years,Home Mortgage,Debt Consolidation,12548.93
+LN-1000006,46NT2A053L,451330.0,Long Term,2784165.0,1 year,Home Mortgage,Debt Consolidation,30857.9
+LN-1000007,C157C3IPZI,192302.0,Short Term,,5 years,Home Mortgage,Debt Consolidation,8799.85
+LN-1000008,GJ710D6JXO,191268.0,Long Term,1484736.0,10+ years,Home Mortgage,Debt Consolidation,11803.56
+LN-1000009,FQJ1YHXMQH,629992.0,Long Term,2267004.0,10+ years,Own Home,Debt Consolidation,20780.87
+LN-1000010,3A2P9FZQEM,450692.0,Short Term,1270074.0,8 years,Rent,Debt Consolidation,22649.52
+LN-1000011,29U8L1E1XJ,520410.0,Short Term,1073044.0,7 years,Rent,Debt Consolidation,31744.06
+LN-1000012,K94KV2DX2X,651420.0,Short Term,3469305.0,3 years,Rent,Debt Consolidation,32380.18
+LN-1000013,NT460734YZ,160424.0,Short Term,1289302.0,3 years,Home Mortgage,Debt Consolidation,23314.71
+LN-1000014,K9O7RDB0XA,334004.0,Short Term,,4 years,Own Home,Home Improvements,28441.1
+LN-1000015,DMV4UIUY2P,99999999.0,Long Term,1886890.0,5 years,Own Home,Home Improvements,19812.44
+LN-1000016,TQ9LTYUEI5,347248.0,Long Term,1593207.0,10+ years,Home Mortgage,Home Improvements,278.92
+LN-1000017,K1CTBADP8S,270446.0,Long Term,1265134.0,10+ years,Rent,Debt Consolidation,15708.63
+LN-1000018,I91Y4O3D64,99999999.0,Short Term,375706.0,6 years,Rent,Debt Consolidation,4339.41
+LN-1000019,9ZM4JVCLUQ,552860.0,Long Term,1375106.0,10+ years,Rent,Debt Consolidation,34263.27
+LN-1000020,8LT1E8FCAF,84018.0,Short Term,1011123.0,10+ years,Rent,Debt Consolidation,18790.05
+LN-1000021,9COULBISLI,215380.0,Short Term,781242.0,10+ years,Home Mortgage,Debt Consolidation,11393.16
+LN-1000022,65YH4SRFHV,66066.0,Short Term,1008102.0,10+ years,Rent,Debt Consolidation,15289.49
+LN-1000023,X75R3TER97,555500.0,Long Term,,5 years,Rent,Debt Consolidation,18710.25
+LN-1000024,WLYHPARXYB,168652.0,Short Term,1847997.0,< 1 year,Rent,Debt Consolidation,14937.99
+LN-1000025,XNY025K4XT,266794.0,Short Term,1344098.0,2 years,Home Mortgage,other,20273.38
+LN-1000026,5QOF5LMSSU,468908.0,L,1833842.0,8 years,Rent,other,5898.93
+LN-1000027,9G1M9S2ZEV,220506.0,Short Term,,< 1 year,Rent,Debt Consolidation,20052.98
+LN-1000028,VSAR22BKTG,198924.0,Short Term,1718037.0,1 year,Rent,Debt Consolidation,14317.07
+LN-1000029,J0UPGENQFA,257444.0,Short Term,648508.0,10+ years,Rent,Debt Consolidation,5944.53
+LN-1000030,V5Y7M4MVX5,649506.0,Short Term,6076827.0,< 1 year,Home Mortgage,Debt Consolidation,39651.29
+LN-1000031,XE4CVYDLUW,229020.0,Long Term,1130196.0,9 years,Rent,Debt Consolidation,17047.18
+LN-1000032,HHC5I5XI57,427284.0,Long Term,1026209.0,10+ years,Home Mortgage,Debt Consolidation,28220.7
+LN-1000033,MFUCB49NBS,71962.0,Short Term,310783.0,< 1 year,Rent,Debt Consolidation,388.55
+LN-1000034,JS3WBRHD57,223234.0,Short Term,751887.0,10+ years,Home Mortgage,Debt Consolidation,6228.2
+LN-1000035,VZ4R1B7UT4,155100.0,Short Term,1160444.0,6 years,Home Mortgage,Home Improvements,15666.07
+LN-1000036,RM157ETJ2J,661496.0,Long Term,4784675.0,4 years,Home Mortgage,Debt Consolidation,35885.11
+LN-1000037,SX94FE4DVQ,345268.0,Short Term,2422823.0,8 years,Home Mortgage,Debt Consolidation,48254.68
+LN-1000038,0X2SYAJVX4,99999999.0,Short Term,2100241.0,10+ years,Rent,Debt Consolidation,27128.01
+LN-1000039,ESKENU8K0B,328020.0,Short Term,2455180.0,10+ years,Home Mortgage,renewable_energy,14956.23
+LN-1000040,CGN83KVEPH,521488.0,Long Term,1073253.0,10+ years,Own Home,Debt Consolidation,17440.48
+LN-1000041,99RP33KAXS,327118.0,Short Term,1351584.0,4 years,Own Home,Home Improvements,18133.79
+LN-1000042,MVV4L1BH8C,120406.0,Short Term,1417875.0,10+ years,Rent,Debt Consolidation,22331.46
+LN-1000043,KE1XHVM1E8,166320.0,Short Term,2568344.0,10+ years,Rent,Debt Consolidation,18748.82
+LN-1000044,99X3L79VWH,324720.0,Long Term,1402200.0,9 years,Rent,Debt Consolidation,3295.17
+LN-1000045,OMQ6S47B5R,99999999.0,Short Term,1485553.0,10+ years,Home Mortgage,Medical Bills,12627.21
+LN-1000046,BJQJFB0B1D,,,,,,,
+LN-1000047,LWD8MDPQAI,447172.0,Long Term,1800972.0,7 years,Home Mortgage,other,10265.51
+LN-1000048,AVPHXJUZQ0,624448.0,Short Term,1482437.0,7 years,Rent,Debt Consolidation,14824.37
+LN-1000049,L2IVMG4PTU,646074.0,Short Term,1562332.0,4 years,Rent,Home Improvements,6809.22
+LN-1000050,GXGOLJQZY0,558580.0,Short Term,2701496.0,2 years,Rent,Debt Consolidation,69338.41
+LN-1000051,FT0TMOUB49,224378.0,Short Term,872024.0,5 years,Rent,Debt Consolidation,21364.36
+LN-1000052,5YH1XODLOQ,201564.0,Short Term,1934200.0,10+ years,Home Mortgage,Debt Consolidation,26917.68
+LN-1000053,92E3UYDGOI,386100.0,Short Term,1549887.0,10+ years,Home Mortgage,Home Improvements,11740.48
+LN-1000054,O9UGPQVGM1,434412.0,Short Term,1519449.0,< 1 year,Home Mortgage,Debt Consolidation,24564.53
+LN-1000055,BVWEMWDVGJ,216612.0,Short Term,574693.0,5 years,Rent,Debt Consolidation,9803.24
+LN-1000056,TMJ1K1G54V,100430.0,Short Term,805030.0,2 years,Own Home,Debt Consolidation,10263.99
+LN-1000057,Y0ZM363N5K,219472.0,Long Term,1232036.0,10+ years,Home Mortgage,Debt Consolidation,13757.71
+LN-1000058,ABXRAKPSW7,676500.0,Long Term,2921250.0,6 years,Home Mortgage,Home Improvements,2142.25
+LN-1000059,HOOZ2IUY2J,216194.0,Short Term,,3 years,Own Home,Debt Consolidation,19009.5
+LN-1000060,A7U09BC3EI,173030.0,Long Term,1220256.0,10+ years,Rent,Other,11846.69
+LN-1000061,2UFVQIVCAM,109428.0,Short Term,,,Home Mortgage,Debt Consolidation,5153.56
+LN-1000062,PPVMKL4TIN,99999999.0,Long Term,1361388.0,4 years,Home Mortgage,Debt Consolidation,26887.47
+LN-1000063,7J4Q8AWRBU,489742.0,Short Term,1084007.0,10+ years,Home Mortgage,Debt Consolidation,27732.4
+LN-1000064,YHPB64B0XO,327800.0,Short Term,1321089.0,10+ years,Home Mortgage,Debt Consolidation,16183.25
+LN-1000065,V7JS4340VL,132330.0,Short Term,761900.0,< 1 year,Rent,Debt Consolidation,10730.06
+LN-1000066,3SHK8VZ909,270314.0,Short Term,,8 years,Home Mortgage,Debt Consolidation,22177.75
+LN-1000067,HACJKVFN1Y,,,,,,,
+LN-1000068,C20IBHWZ46,215468.0,Long Term,1246780.0,< 1 year,Rent,Debt Consolidation,13299.05
+LN-1000069,MED8RMZBOB,446072.0,Short Term,,10+ years,Home Mortgage,Debt Consolidation,41534.19
+LN-1000070,FJ4G1VL97T,99999999.0,Short Term,811528.0,10+ years,Home Mortgage,Debt Consolidation,16162.92
+LN-1000071,MBF8EDBBRC,333168.0,Long Term,1150944.0,8 years,Home Mortgage,Debt Consolidation,14770.41
+LN-1000072,342AZODJV5,239514.0,Short Term,624986.0,10+ years,Rent,Debt Consolidation,10884.91
+LN-1000073,LWGAMB4ZZW,526944.0,Long Term,,2 years,Home Mortgage,Debt Consolidation,30244.39
+LN-1000074,M04WRHVVER,244002.0,Long Term,470402.0,10+ years,Home Mortgage,Debt Consolidation,14934.95
+LN-1000075,8YZ3LAYWEL,240724.0,Long Term,1104432.0,6 years,Home Mortgage,Buy a Car,14964.97
+LN-1000076,M9VLDB6NS5,327096.0,Long Term,,10+ years,Home Mortgage,Other,5233.17
+LN-1000077,T8QUONFLJ4,219450.0,Short Term,568575.0,< 1 year,Rent,Debt Consolidation,2653.35
+LN-1000078,4JHV0RV581,514932.0,Long Term,1892400.0,10+ years,Rent,Debt Consolidation,9446.23
+LN-1000079,WZD9VFCBDH,131472.0,Short Term,756960.0,10+ years,Home Mortgage,Debt Consolidation,10786.68
+LN-1000080,UXL9G563H3,148104.0,Short Term,,< 1 year,Rent,Debt Consolidation,8655.26
+LN-1000081,OH812J8V2J,260920.0,Long Term,1117276.0,,Rent,Debt Consolidation,15176.25
+LN-1000082,WGXBCX6LFN,161480.0,Short Term,1654805.0,3 years,Home Mortgage,Debt Consolidation,37233.35
+LN-1000083,RJK5F7XAFL,223476.0,Short Term,675507.0,1 year,Rent,Debt Consolidation,15198.86
+LN-1000084,800K9FHS6B,190784.0,Short Term,1007950.0,10+ years,Home Mortgage,Debt Consolidation,14615.37
+LN-1000085,E3RTRQAJFJ,43824.0,Short Term,,< 1 year,Rent,other,13422.36
+LN-1000086,D9ELENBSFF,79442.0,Short Term,514596.0,4 years,Rent,Buy a Car,8833.86
+LN-1000087,P73YBQHBQN,337370.0,Long Term,1146004.0,1 year,Rent,Debt Consolidation,14802.33
+LN-1000088,TCI9Z5U6JK,99999999.0,Short Term,1036165.0,10+ years,Home Mortgage,Debt Consolidation,27544.49
+LN-1000089,UDO9383QJE,359392.0,Short Term,,1 year,Rent,Debt Consolidation,21961.15
+LN-1000090,LSOYDNC1A8,388278.0,Long Term,,6 years,Home Mortgage,Home Improvements,14145.88
+LN-1000091,84FYUOU3BZ,133518.0,Short Term,967157.0,1 year,Rent,Debt Consolidation,5416.14
+LN-1000092,EXXYLNFDFJ,99999999.0,Short Term,1507992.0,5 years,Rent,Debt Consolidation,22117.14
+LN-1000093,YCTSLMKEJB,99999999.0,Short Term,1367582.0,8 years,Rent,Debt Consolidation,22793.16
+LN-1000094,DX0R2906Z6,219956.0,Short Term,1994601.0,3 years,Home Mortgage,Debt Consolidation,17785.14
+LN-1000095,6CJW3P85CA,223806.0,Short Term,1159722.0,9 years,Home Mortgage,Debt Consolidation,19425.41
+LN-1000096,1S5R6APUJA,659472.0,Long Term,2278176.0,10+ years,Rent,Debt Consolidation,54296.49
+LN-1000097,4OHK0T6TED,454630.0,Long Term,2020935.0,10+ years,Home Mortgage,Debt Consolidation,25093.3
+LN-1000098,Q3CBZ6ZUJU,,,,,,,
+LN-1000099,R87V2BKQPX,88902.0,Short Term,575814.0,10+ years,Rent,Medical Bills,12092.17
+LN-1000100,GKKMT37KFY,198198.0,Short Term,,6 years,Home Mortgage,Debt Consolidation,14644.63
+LN-1000101,5MUGTDTVY3,303094.0,Short Term,1116972.0,< 1 year,Rent,Debt Consolidation,8647.28
+LN-1000102,PHU7EAC26Q,451330.0,Long Term,1104014.0,3 years,Home Mortgage,Debt Consolidation,14076.15
+LN-1000103,5AF4MYOIJH,26422.0,Short Term,665399.0,10+ years,Rent,Debt Consolidation,13418.75
+LN-1000104,PQ9HBW2K7A,341748.0,L,1456350.0,10+ years,Home Mortgage,Debt Consolidation,23908.46
+LN-1000105,4NPBDTPHE2,112420.0,Short Term,,6 years,Rent,Other,22930.34
+LN-1000106,ORESP426X5,176572.0,Short Term,,10+ years,Own Home,Home Improvements,9993.62
+LN-1000107,Y70SC1G6C8,388168.0,Short Term,1042929.0,2 years,Own Home,Business Loan,0.0
+LN-1000108,SPZC8DXPXS,99999999.0,Short Term,481612.0,5 years,Rent,other,6461.52
+LN-1000109,EEM1TASLN0,376486.0,Short Term,836114.0,10+ years,Home Mortgage,Debt Consolidation,5016.57
+LN-1000110,YLQD606HYJ,553542.0,Long Term,2044685.0,< 1 year,Home Mortgage,other,51628.13
+LN-1000111,SN4M55HTJJ,59532.0,Short Term,660288.0,5 years,Rent,Debt Consolidation,11885.07
+LN-1000112,U7OY7C1S6Y,404404.0,Long Term,,10+ years,Home Mortgage,Debt Consolidation,13969.94
+LN-1000113,MFH7AZNLUL,107470.0,Short Term,714609.0,5 years,Home Mortgage,Debt Consolidation,13815.66
+LN-1000114,8P9XS02NHR,120032.0,Short Term,226176.0,5 years,Rent,Medical Bills,2205.14
+LN-1000115,PYI5AK2GM0,446996.0,Long Term,,4 years,Rent,Debt Consolidation,27666.28
+LN-1000116,4KHT2JQ55Q,,,,,,,
+LN-1000117,FHPPNRM2N5,111408.0,Short Term,1346891.0,3 years,Rent,Debt Consolidation,19529.91
+LN-1000118,QEMUYKH7DT,,,,,,,
+LN-1000119,DEIMX3XVKD,264946.0,Long Term,1125028.0,10+ years,Rent,Debt Consolidation,22781.95
+LN-1000120,SRA3I9MI45,493746.0,Short Term,1650074.0,10+ years,Home Mortgage,Debt Consolidation,11303.1
+LN-1000121,R6UHWQWO1Y,319462.0,Long Term,1159741.0,10+ years,Home Mortgage,Debt Consolidation,25707.57
+LN-1000122,O0INAO03J1,267322.0,Long Term,,7 years,Own Home,Debt Consolidation,14329.99
+LN-1000123,M4DED3GG0G,112244.0,Short Term,765814.0,2 years,Home Mortgage,Debt Consolidation,8104.83
+LN-1000124,RUNDDTYT51,648252.0,Long Term,1492944.0,7 years,Home Mortgage,Debt Consolidation,26624.32
+LN-1000125,CAMVCR4J4H,104104.0,Long Term,1191699.0,10+ years,Rent,other,5640.53
+LN-1000126,3KU5BV7CA5,104522.0,LT,461605.0,2 years,Rent,Debt Consolidation,9501.52
+LN-1000127,BFXIIIBQXY,350526.0,Long Term,1135212.0,1 year,Home Mortgage,Debt Consolidation,15609.26
+LN-1000128,9H5ZYPEJU1,64768.0,ST,,< 1 year,Home Mortgage,Home Improvements,29206.99
+LN-1000129,VQE6BNI33P,240152.0,Short Term,1093621.0,3 years,Home Mortgage,Home Improvements,13542.63
+LN-1000130,D68O4Q1YM8,330770.0,Long Term,1428287.0,6 years,Home Mortgage,Debt Consolidation,17258.27
+LN-1000131,8UWO3DYWUK,327558.0,Short Term,1320158.0,< 1 year,Home Mortgage,Debt Consolidation,43345.08
+LN-1000132,EIHW8OI8R5,784256.0,Long Term,2418947.0,4 years,Home Mortgage,Debt Consolidation,42533.02
+LN-1000133,FLOGM6LW2N,57992.0,Short Term,968202.0,1 year,Rent,Debt Consolidation,10166.14
+LN-1000134,229TP0W9RT,334268.0,Short Term,,10+ years,Rent,Debt Consolidation,15480.44
+LN-1000135,P5FQ3K1LJ8,242572.0,Long Term,1496440.0,10+ years,Home Mortgage,Debt Consolidation,26187.7
+LN-1000136,QO35YRNADK,538714.0,Short Term,1356999.0,10+ years,Home Mortgage,Debt Consolidation,23408.19
+LN-1000137,YHZ0F3E815,86812.0,Short Term,749664.0,1 year,Home Mortgage,Debt Consolidation,2586.28
+LN-1000138,61GT80Q3BU,219626.0,Short Term,,5 years,Home Mortgage,Debt Consolidation,40477.03
+LN-1000139,3PZNPMXDVW,125004.0,Short Term,,3 years,Rent,Debt Consolidation,17375.5
+LN-1000140,1XH9QSO6LK,353122.0,Long Term,1048344.0,10+ years,Home Mortgage,Debt Consolidation,11418.24
+LN-1000141,K03HJK584D,99999999.0,Short Term,1688625.0,2 years,Own Home,Debt Consolidation,24485.11
+LN-1000142,V32CKAQ4Z4,377960.0,Short Term,1420896.0,10+ years,Home Mortgage,Debt Consolidation,17524.46
+LN-1000143,SVW00TTKF5,686290.0,Short Term,1238610.0,1 year,Home Mortgage,Business Loan,9712.8
+LN-1000144,VJNEKLD8HE,172348.0,Short Term,1823449.0,10+ years,Home Mortgage,Debt Consolidation,25984.21
+LN-1000145,BYERZRYT8R,175912.0,Short Term,569715.0,2 years,Home Mortgage,Debt Consolidation,10919.49
+LN-1000146,ID9FYP7ZY4,267410.0,Long Term,1758241.0,< 1 year,Home Mortgage,Home Improvements,43223.1
+LN-1000147,A7AVHAUZ0I,99999999.0,Short Term,677559.0,3 years,Rent,Other,7114.36
+LN-1000148,632AIZ6BOW,646404.0,Short Term,7443440.0,6 years,Home Mortgage,Debt Consolidation,78156.12
+LN-1000149,2N2119NGLF,177452.0,Short Term,574731.0,3 years,Rent,Debt Consolidation,2586.28
+LN-1000150,2SCZVZ47ZT,379676.0,Short Term,1311095.0,< 1 year,Home Mortgage,Debt Consolidation,9680.31
+LN-1000151,5KLELU0Q2G,314006.0,Short Term,1259092.0,10+ years,Home Mortgage,Debt Consolidation,6746.52
+LN-1000152,0DXQ15ZRH3,219428.0,Short Term,852777.0,5 years,Rent,Debt Consolidation,16131.76
+LN-1000153,Z5SKZRR1RD,107822.0,Short Term,1303666.0,10+ years,Rent,Debt Consolidation,22488.21
+LN-1000154,UHSNWX8ET2,754226.0,Short Term,2265636.0,10+ years,Home Mortgage,Debt Consolidation,34550.93
+LN-1000155,3BBEFW6VJZ,327756.0,Long Term,698212.0,8 years,Home Mortgage,Debt Consolidation,5876.7
+LN-1000156,9OK9PLWRL1,171732.0,Short Term,711949.0,4 years,Rent,Debt Consolidation,11450.35
+LN-1000157,LMNBMMZE66,289916.0,Short Term,924502.0,10+ years,Rent,Debt Consolidation,20647.11
+LN-1000158,SP65OOXD73,221892.0,Short Term,2721199.0,2 years,Home Mortgage,Debt Consolidation,30840.23
+LN-1000159,ILUCJR7X3N,154220.0,Short Term,808640.0,5 years,Rent,Debt Consolidation,11523.12
+LN-1000160,QVXRPOADQZ,765842.0,Short Term,2910192.0,10+ years,Home Mortgage,Buy House,29587.18
+LN-1000161,QQF5APIZ60,170632.0,Short Term,,4 years,Home Mortgage,Debt Consolidation,14162.6
+LN-1000162,HY4Y0LFH3L,759462.0,Long Term,7495880.0,10+ years,Rent,Debt Consolidation,81205.24
+LN-1000163,SWIQKJBXG3,329054.0,Short Term,,2 years,Home Mortgage,Debt Consolidation,52591.05
+LN-1000164,H1XH9ZHRBZ,343596.0,Long Term,927295.0,8 years,Home Mortgage,other,27741.52
+LN-1000165,X9FE1TWK1Z,311608.0,Short Term,1838307.0,6 years,Rent,Debt Consolidation,25583.12
+LN-1000166,0HX94SRW1R,472076.0,Long Term,1237508.0,2 years,Home Mortgage,Debt Consolidation,23997.38
+LN-1000167,7GO1NWYZU9,171820.0,Short Term,1669473.0,10+ years,Home Mortgage,Debt Consolidation,29076.65
+LN-1000168,0XNP6YM8LM,177276.0,Short Term,608608.0,5 years,Rent,Buy a Car,8165.44
+LN-1000169,KICY43H0Q4,479798.0,Short Term,,5 years,Home Mortgage,Debt Consolidation,20404.29
+LN-1000170,U6UHGW0LZM,704726.0,Long Term,1677681.0,10+ years,Rent,Debt Consolidation,23347.77
+LN-1000171,QHQKDKN5KT,88880.0,Short Term,997709.0,10+ years,Rent,Debt Consolidation,14541.46
+LN-1000172,3SQPEGZAKZ,199628.0,Short Term,718751.0,4 years,Own Home,Home Improvements,14794.16
+LN-1000173,B4LY8R8OYS,402380.0,Long Term,926687.0,8 years,Home Mortgage,Debt Consolidation,11815.15
+LN-1000174,LNPEP3POA0,535436.0,L,1202320.0,3 years,Rent,Debt Consolidation,21892.18
+LN-1000175,ZRGZJC26LD,538340.0,Long Term,1673748.0,3 years,Rent,Debt Consolidation,15342.69
+LN-1000176,P1JNYS2KS7,103488.0,Short Term,744800.0,10+ years,Rent,Debt Consolidation,11172.0
+LN-1000177,IW8DPNUKR1,218416.0,Long Term,950703.0,3 years,Own Home,other,26619.76
+LN-1000178,TIX484R6HR,366960.0,Short Term,719682.0,10+ years,Rent,Debt Consolidation,14813.54
+LN-1000179,A4F4DQPN4V,337854.0,Long Term,897769.0,2 years,Rent,Debt Consolidation,27456.9
+LN-1000180,O89CCCS2J5,213026.0,Short Term,,3 years,Rent,Debt Consolidation,10999.29
+LN-1000181,YFZ835VDS1,99999999.0,Long Term,950095.0,5 years,Rent,Debt Consolidation,21218.44
+LN-1000182,QSH3JG5O1O,781704.0,Short Term,3086208.0,5 years,Rent,Debt Consolidation,36263.02
+LN-1000183,RPF9U05B0U,99999999.0,Short Term,1281455.0,8 years,Rent,other,42501.86
+LN-1000184,4GWFDA32N1,539990.0,Long Term,2201188.0,5 years,Home Mortgage,Debt Consolidation,16692.26
+LN-1000185,EO8WR23FO0,525514.0,Short Term,2647498.0,< 1 year,Home Mortgage,Debt Consolidation,28460.67
+LN-1000186,JCAG5PGTGD,373824.0,Long Term,717459.0,5 years,Own Home,Debt Consolidation,11658.59
+LN-1000187,NW1S15VRKC,292490.0,Short Term,,10+ years,Home Mortgage,Debt Consolidation,23110.84
+LN-1000188,DE3ES1II0O,324984.0,Short Term,991686.0,,Home Mortgage,Debt Consolidation,14379.58
+LN-1000189,JCQ9TBG8I6,330374.0,Long Term,2187413.0,10+ years,Home Mortgage,Debt Consolidation,57054.72
+LN-1000190,EKMMAQXOFD,360316.0,Short Term,1697346.0,10+ years,Home Mortgage,Debt Consolidation,35361.47
+LN-1000191,LXLPA69B0X,131868.0,Short Term,759240.0,10+ years,Rent,Debt Consolidation,11135.52
+LN-1000192,O2O49ZHEXK,509410.0,Short Term,,3 years,Rent,Debt Consolidation,25397.87
+LN-1000193,0JTP9CFLZG,330528.0,Short Term,761216.0,3 years,Rent,Debt Consolidation,18522.91
+LN-1000194,22IPURO2FQ,646404.0,Short Term,1451467.0,7 years,Rent,Debt Consolidation,23949.31
+LN-1000195,RSPM9KD534,99999999.0,Short Term,1941610.0,4 years,Home Mortgage,Home Improvements,14367.99
+LN-1000196,OZK9KOMC11,190850.0,Short Term,863360.0,10+ years,Home Mortgage,Debt Consolidation,20216.76
+LN-1000197,RJXWYXODU8,358820.0,Long Term,1375163.0,1 year,Rent,Debt Consolidation,11688.99
+LN-1000198,K117ZH9O94,774400.0,Short Term,2331205.0,4 years,Home Mortgage,Debt Consolidation,55172.01
+LN-1000199,VE674KTE1E,217976.0,Short Term,,2 years,Home Mortgage,Debt Consolidation,12750.9
+LN-1000200,OWGW68OUKM,99999999.0,Short Term,1630257.0,4 years,Home Mortgage,Debt Consolidation,18747.87
+LN-1000201,KCCKZ9FOOZ,132616.0,Short Term,,2 years,Rent,Debt Consolidation,18658.19
+LN-1000202,S411QGO5FV,132946.0,Short Term,744838.0,6 years,Rent,Debt Consolidation,9931.3
+LN-1000203,8XZCSP69RF,99999999.0,Short Term,874057.0,4 years,Rent,Debt Consolidation,2578.49
+LN-1000204,O2NAVHVKBC,764698.0,Long Term,3113378.0,4 years,Home Mortgage,Home Improvements,4851.84
+LN-1000205,1334O1DTXS,131802.0,Short Term,379430.0,8 years,Home Mortgage,Debt Consolidation,7999.76
+LN-1000206,YAPCCD5HZS,453662.0,Long Term,890625.0,3 years,Rent,Debt Consolidation,19742.14
+LN-1000207,5454JKI9Y1,352594.0,Short Term,856463.0,10+ years,Rent,other,1748.76
+LN-1000208,SL2JTR27Y5,328416.0,Short Term,1039984.0,2 years,Rent,Debt Consolidation,11526.35
+LN-1000209,T0IYYS8BVW,327272.0,Short Term,753692.0,3 years,Rent,Debt Consolidation,11807.93
+LN-1000210,WXW2MOPGF9,99999999.0,Short Term,1001376.0,7 years,Rent,Debt Consolidation,7585.37
+LN-1000211,WJ1158UPS6,439692.0,Short Term,1993613.0,< 1 year,Home Mortgage,Home Improvements,40370.44
+LN-1000212,YTP9FSD80A,330396.0,Long Term,1141368.0,10+ years,Rent,Debt Consolidation,18261.85
+LN-1000213,C70GSWO143,433752.0,Long Term,842859.0,2 years,Own Home,Debt Consolidation,14047.65
+LN-1000214,3LQENGYT6M,773168.0,Short Term,2480127.0,10+ years,Home Mortgage,Debt Consolidation,56009.53
+LN-1000215,90ZQT1OIC1,196878.0,Short Term,1039053.0,1 year,Home Mortgage,Debt Consolidation,19828.4
+LN-1000216,4HLGAG3XWZ,99999999.0,Short Term,1057445.0,10+ years,Home Mortgage,Debt Consolidation,23175.44
+LN-1000217,PSYWIM6FJD,240768.0,Short Term,598082.0,6 years,Own Home,Debt Consolidation,6628.91
+LN-1000218,R38M1U1AFT,439384.0,Long Term,,10+ years,Home Mortgage,Debt Consolidation,31333.85
+LN-1000219,KKT0KL2FUG,222970.0,Short Term,558220.0,< 1 year,Home Mortgage,other,1041.96
+LN-1000220,XR6APHCRR6,133562.0,Short Term,1114996.0,,Rent,Debt Consolidation,20255.9
+LN-1000221,S7ULLHA3XX,99999999.0,Short Term,581913.0,1 year,Rent,Debt Consolidation,7516.4
+LN-1000222,L8HBWMXM23,430804.0,Long Term,930145.0,2 years,Rent,Debt Consolidation,11316.78
+LN-1000223,J8DHRMM504,379280.0,Long Term,,10+ years,Home Mortgage,Debt Consolidation,12981.75
+LN-1000224,N7IUWFWT6I,21890.0,Short Term,1058471.0,1 year,Rent,Take a Trip,10761.03
+LN-1000225,0OPZ3MPCFM,331694.0,Long Term,802066.0,10+ years,Home Mortgage,Debt Consolidation,9223.74
+LN-1000226,OQSKIR4NXR,99999999.0,Short Term,574161.0,< 1 year,Rent,Debt Consolidation,6746.33
+LN-1000227,MRGIPNOKYN,322982.0,Short Term,,10+ years,Rent,Debt Consolidation,29901.25
+LN-1000228,8N4I413SLE,108944.0,Long Term,,< 1 year,Rent,other,2239.53
+LN-1000229,CXM0UIOZWT,,,,,,,
+LN-1000230,53ZPVS5WLX,99999999.0,Short Term,1387152.0,10+ years,Home Mortgage,Debt Consolidation,17108.17
+LN-1000231,WGFLB2GZVT,99999999.0,Short Term,760152.0,,Rent,Debt Consolidation,18243.61
+LN-1000232,7ZQHB0AZ81,130680.0,Short Term,564300.0,2 years,Home Mortgage,Debt Consolidation,4119.39
+LN-1000233,U89TDTHMU8,216458.0,Short Term,1560964.0,3 years,Rent,Debt Consolidation,8676.35
+LN-1000234,LOZVZE2AA5,,,,,,,
+LN-1000235,12QCM7EZCB,655776.0,Long Term,1699056.0,2 years,Home Mortgage,Debt Consolidation,32126.34
+LN-1000236,CY1J3XNHD8,658944.0,S,2246940.0,10+ years,Home Mortgage,Debt Consolidation,50743.68
+LN-1000237,F5AEEVF21K,645832.0,Long Term,1073443.0,10+ years,Rent,Debt Consolidation,19778.05
+LN-1000238,Q9QMK4M0DP,67540.0,Short Term,388816.0,1 year,Own Home,other,1010.99
+LN-1000239,FBWJWYVPWQ,129514.0,Short Term,974548.0,10+ years,Rent,Debt Consolidation,22333.55
+LN-1000240,0JN3MSD2G2,611622.0,Long Term,1263956.0,10+ years,Home Mortgage,Debt Consolidation,24647.18
+LN-1000241,OHB86PCH4G,347094.0,Short Term,1141938.0,10+ years,Rent,Debt Consolidation,24075.85
+LN-1000242,LOMG04LU0I,216084.0,Short Term,,9 years,Own Home,Debt Consolidation,30284.48
+LN-1000243,TN4K1IM8LU,270512.0,Short Term,1273285.0,1 year,Rent,Debt Consolidation,18791.76
+LN-1000244,BDK80IW4TT,281556.0,Short Term,610318.0,8 years,Rent,Debt Consolidation,3397.39
+LN-1000245,S7OIOQTLRR,254584.0,Short Term,1074450.0,7 years,Own Home,Debt Consolidation,18892.46
+LN-1000246,5SQVHG1O3H,224202.0,Short Term,619609.0,2 years,Rent,Debt Consolidation,17504.13
+LN-1000247,6YSGOVQUHU,75482.0,Short Term,181982.0,2 years,Rent,Debt Consolidation,5535.08
+LN-1000248,0M9G7R8UPV,225324.0,Short Term,1945980.0,< 1 year,Rent,Debt Consolidation,31784.34
+LN-1000249,NYH8R0PV3E,99999999.0,Short Term,1568279.0,8 years,Home Mortgage,Home Improvements,16989.61
+LN-1000250,C9F3F6YNW6,225148.0,Short Term,,1 year,Rent,Debt Consolidation,11468.21
+LN-1000251,U38Z486TPA,554950.0,LT,958550.0,3 years,Home Mortgage,Debt Consolidation,16055.76
+LN-1000252,54XFEZH0RK,328218.0,Short Term,1301139.0,10+ years,Rent,Debt Consolidation,22878.28
+LN-1000253,Y3CELVOZBH,550286.0,Short Term,1501760.0,9 years,Home Mortgage,Home Improvements,10024.21
+LN-1000254,840DXGGMYC,397694.0,Long Term,1190692.0,2 years,Rent,other,13593.74
+LN-1000255,JXZSSEBU9S,21626.0,Short Term,854221.0,5 years,Home Mortgage,other,6428.08
+LN-1000256,MFGZGJ4UC7,89276.0,Short Term,1002326.0,2 years,Home Mortgage,Medical Bills,6323.01
+LN-1000257,13DVZZP1QT,321882.0,Short Term,1418312.0,10+ years,Own Home,Debt Consolidation,36284.87
+LN-1000258,3ZWIO0SPD4,463628.0,Long Term,1830384.0,7 years,Home Mortgage,Debt Consolidation,19524.02
+LN-1000259,Q811OIHOIR,,,,,,,
+LN-1000260,LHJAZ5Q0NJ,224444.0,Short Term,969190.0,5 years,Rent,Debt Consolidation,15103.29
+LN-1000261,2BHL1TNAU4,198616.0,Short Term,1183396.0,6 years,Own Home,Debt Consolidation,26034.75
+LN-1000262,T1ZRRPQ02C,112354.0,Short Term,1261315.0,3 years,Rent,Medical Bills,3121.89
+LN-1000263,ZSX2DC9QXQ,336182.0,Short Term,1219382.0,4 years,Home Mortgage,Debt Consolidation,31907.27
+LN-1000264,LQZ8ET92I5,69586.0,Short Term,1089118.0,2 years,Home Mortgage,Debt Consolidation,11889.63
+LN-1000265,JRW7ZH0V0V,,,,,,,
+LN-1000266,0GLR47ZF4X,763686.0,Long Term,2581663.0,3 years,Rent,Debt Consolidation,46469.82
+LN-1000267,TCI2UTZ0XK,447304.0,Short Term,1854286.0,10+ years,Home Mortgage,Debt Consolidation,35385.79
+LN-1000268,52ZX4NFXYW,107800.0,Short Term,949620.0,10+ years,Rent,major_purchase,1210.87
+LN-1000269,5ZIFLAP3W5,99999999.0,Short Term,789355.0,2 years,Rent,Debt Consolidation,11182.64
+LN-1000270,51NE4QXX5P,,,,,,,
+LN-1000271,15TS2FUUWY,218636.0,S,,10+ years,Rent,Debt Consolidation,5377.95
+LN-1000272,42GLVP99NR,438592.0,Short Term,2272704.0,3 years,Home Mortgage,Debt Consolidation,18655.15
+LN-1000273,NFW48OIKQQ,785642.0,Short Term,1822252.0,10+ years,Home Mortgage,Debt Consolidation,20804.24
+LN-1000274,AYOTYVS0IJ,221914.0,Short Term,,1 year,Rent,Debt Consolidation,41117.71
+LN-1000275,DSV8AGYSB2,133694.0,Short Term,,3 years,Rent,Other,6741.2
+LN-1000276,905IHTRIRL,142010.0,Short Term,,2 years,Rent,Buy a Car,5280.29
+LN-1000277,2TFO8W0YH7,212652.0,Short Term,530575.0,< 1 year,Home Mortgage,Debt Consolidation,6543.79
+LN-1000278,XZTSZOVF35,177716.0,Short Term,805828.0,,Rent,Debt Consolidation,9266.87
+LN-1000279,QQRGVMH3OX,224730.0,Short Term,,10+ years,Home Mortgage,Debt Consolidation,19020.33
+LN-1000280,HJPHLKM3AW,237182.0,Long Term,578379.0,10+ years,Rent,Debt Consolidation,7229.69
+LN-1000281,55UF3RKQGM,90156.0,Short Term,1459770.0,7 years,Home Mortgage,Home Improvements,10352.34
+LN-1000282,8NRZKDQF1X,128876.0,Short Term,890473.0,2 years,Home Mortgage,Medical Bills,18477.31
+LN-1000283,JWZBELWV2J,326304.0,Short Term,,10+ years,Rent,Debt Consolidation,7233.11
+LN-1000284,2MET04JTEC,93962.0,Short Term,450300.0,7 years,Home Mortgage,Debt Consolidation,6229.15
+LN-1000285,5WYWVWYDAG,351626.0,Long Term,1322419.0,4 years,Home Mortgage,Debt Consolidation,18073.18
+LN-1000286,4OAWXZQK0X,347050.0,Long Term,887984.0,5 years,Home Mortgage,Debt Consolidation,17389.94
+LN-1000287,BE5CQPO994,121418.0,Short Term,371184.0,3 years,Own Home,Debt Consolidation,8753.87
+LN-1000288,6F6M218ACJ,661320.0,Long Term,1523040.0,7 years,Rent,Debt Consolidation,17134.2
+LN-1000289,5CJ9QECDMJ,316646.0,Long Term,1131564.0,4 years,Rent,Debt Consolidation,15181.76
+LN-1000290,LLYY9L8TAY,64460.0,Short Term,927960.0,10+ years,Home Mortgage,other,15311.34
+LN-1000291,8P3QBNN6BJ,396242.0,Short Term,1140684.0,3 years,Rent,Debt Consolidation,16825.07
+LN-1000292,N0E4R5BJRY,218724.0,Short Term,,< 1 year,HaveMortgage,Take a Trip,4967.36
+LN-1000293,RFO4YKAHWK,246664.0,Long Term,1514015.0,10+ years,Home Mortgage,Debt Consolidation,39490.55
+LN-1000294,D78QXF07O9,307934.0,Short Term,2374525.0,< 1 year,Home Mortgage,Debt Consolidation,31660.46
+LN-1000295,HMPHAT7WAH,173294.0,Short Term,906433.0,5 years,Home Mortgage,Home Improvements,9593.1
+LN-1000296,HBJFYF13I5,182490.0,Short Term,469072.0,7 years,Home Mortgage,Debt Consolidation,6801.43
+LN-1000297,KZADSZBRJV,495858.0,Long Term,932995.0,10+ years,Rent,Debt Consolidation,14616.89
+LN-1000298,727RLHZE4J,439912.0,Short Term,2374525.0,10+ years,Home Mortgage,Home Improvements,26911.41
+LN-1000299,WTZ8DFT8MM,178442.0,Short Term,,1 year,Home Mortgage,Debt Consolidation,27271.65
+LN-1000300,5YK6GE44YM,99999999.0,Short Term,537206.0,3 years,Rent,Buy a Car,5640.72
+LN-1000301,89QGCX0FOU,665962.0,Long Term,1508600.0,10+ years,Home Mortgage,Debt Consolidation,29291.92
+LN-1000302,YPWBT3IABB,551210.0,Short Term,,9 years,Home Mortgage,Debt Consolidation,28054.83
+LN-1000303,9SPLKR5R6N,30954.0,Short Term,954845.0,10+ years,Rent,other,18380.79
+LN-1000304,FHMP8CJB0T,205502.0,Short Term,525882.0,1 year,Own Home,Debt Consolidation,14067.41
+LN-1000305,ZKAFCHOYVA,673134.0,Long Term,,10+ years,Home Mortgage,small_business,22817.67
+LN-1000306,C9S7VKW8HW,437976.0,Short Term,,9 years,Rent,Debt Consolidation,21888.19
+LN-1000307,2ZLEUSHJ33,263208.0,Short Term,1894300.0,10+ years,Home Mortgage,Debt Consolidation,12897.01
+LN-1000308,QBCE6BFRL1,329208.0,Short Term,1781706.0,3 years,Home Mortgage,Debt Consolidation,30140.65
+LN-1000309,VMQE9M5CAC,259864.0,Long Term,785479.0,3 years,Rent,Debt Consolidation,17345.86
+LN-1000310,17O8SXB95R,99999999.0,Short Term,1216361.0,10+ years,Own Home,Debt Consolidation,23110.84
+LN-1000311,6TWH2C71ZD,539110.0,Long Term,1583023.0,3 years,Rent,Debt Consolidation,12413.46
+LN-1000312,KKPNV9YT70,99999999.0,Short Term,1607286.0,3 years,Home Mortgage,Debt Consolidation,23305.59
+LN-1000313,SA278EIA4F,334070.0,Short Term,,< 1 year,Own Home,Home Improvements,5861.5
+LN-1000314,T7MCK1CBOQ,681780.0,Short Term,4112284.0,6 years,Home Mortgage,Debt Consolidation,60313.6
+LN-1000315,4FAIQBKVKV,186054.0,Short Term,,5 years,Home Mortgage,Debt Consolidation,30200.12
+LN-1000316,243XTEPMEW,547756.0,Short Term,1129607.0,5 years,Home Mortgage,Home Improvements,18544.19
+LN-1000317,FETZ4NM5VQ,334268.0,Short Term,,9 years,Home Mortgage,Debt Consolidation,19181.07
+LN-1000318,Y4PE7C3YQO,520124.0,Short Term,1123014.0,7 years,Own Home,other,8731.45
+LN-1000319,RRDPZAHB04,502414.0,Long Term,,10+ years,Home Mortgage,Debt Consolidation,24892.47
+LN-1000320,UGITR8Q6ZU,222728.0,Long Term,,,Home Mortgage,Debt Consolidation,10098.69
+LN-1000321,Q027CB12FM,200596.0,Short Term,949240.0,5 years,Rent,Debt Consolidation,21990.6
+LN-1000322,BCG5F1KBMR,270028.0,Short Term,,3 years,Home Mortgage,Debt Consolidation,17509.26
+LN-1000323,PZ244X6WOU,173844.0,Short Term,769500.0,10+ years,Home Mortgage,Debt Consolidation,9362.06
+LN-1000324,EL5MFOJB3O,430254.0,Long Term,,10+ years,Home Mortgage,Debt Consolidation,12569.26
+LN-1000325,1EBHDSTNYD,472714.0,Short Term,1670157.0,< 1 year,Home Mortgage,Home Improvements,25330.8
+LN-1000326,4PWQPCVTQY,111276.0,Short Term,999362.0,10+ years,Home Mortgage,Debt Consolidation,21319.71
+LN-1000327,DBVMPAYOCI,204402.0,Short Term,629755.0,2 years,Rent,Debt Consolidation,12122.95
+LN-1000328,5HO37BEO6V,223036.0,Short Term,1112393.0,9 years,Home Mortgage,Debt Consolidation,13904.96
+LN-1000329,OGIYCI05LW,260546.0,Short Term,4312753.0,10+ years,Home Mortgage,Home Improvements,20808.99
+LN-1000330,YB7RR7SK8G,259798.0,S,,10+ years,Rent,Debt Consolidation,15698.37
+LN-1000331,VAHBV7WUVS,401918.0,Short Term,1344782.0,7 years,Rent,Business Loan,21404.45
+LN-1000332,477G6SF1WG,110000.0,Short Term,1235000.0,7 years,HaveMortgage,Take a Trip,10054.99
+LN-1000333,JPH55ZHUDJ,113608.0,Short Term,505362.0,3 years,Rent,Debt Consolidation,11581.45
+LN-1000334,FV4550ZDRB,99999999.0,Short Term,2287068.0,5 years,Home Mortgage,Home Improvements,23061.25
+LN-1000335,CYL3P9R57C,768394.0,Long Term,,10+ years,Home Mortgage,Debt Consolidation,29944.19
+LN-1000336,MEXLLQTLQH,130724.0,Short Term,1279593.0,2 years,Home Mortgage,Debt Consolidation,11943.02
+LN-1000337,DQRW52WKTJ,131626.0,Short Term,637298.0,3 years,Rent,Home Improvements,5682.71
+LN-1000338,6GFAQ2ZYGF,178706.0,Short Term,1157556.0,8 years,Home Mortgage,Home Improvements,16302.19
+LN-1000339,WZ292FOU9O,257554.0,Short Term,1575594.0,9 years,Rent,Debt Consolidation,14705.43
+LN-1000340,LRMBLTQNP8,206844.0,Short Term,822643.0,8 years,Home Mortgage,Debt Consolidation,19469.49
+LN-1000341,HMCGHUE76R,66022.0,Short Term,,7 years,Rent,Other,571.33
+LN-1000342,0QI6PTKLOS,,,,,,,
+LN-1000343,ZJJN9QK1RL,175406.0,Short Term,908903.0,3 years,Home Mortgage,Debt Consolidation,6990.86
+LN-1000344,7B1LPVXDVZ,22110.0,Short Term,935199.0,10+ years,Home Mortgage,other,7387.96
+LN-1000345,NTSP6TZ2I5,335610.0,Short Term,5709956.0,2 years,Home Mortgage,Debt Consolidation,22316.26
+LN-1000346,8K7LFHJ4WP,552750.0,Long Term,1088415.0,10+ years,Home Mortgage,Debt Consolidation,14240.12
+LN-1000347,1X2AO1OCVF,358248.0,Short Term,,4 years,Rent,Debt Consolidation,12555.2
+LN-1000348,7BO8I5KXFD,133914.0,Short Term,,7 years,Rent,other,28142.23
+LN-1000349,70242T76HX,222068.0,Short Term,1198672.0,6 years,Rent,Debt Consolidation,31265.07
+LN-1000350,TR0RLCTLDH,361108.0,Short Term,709802.0,7 years,Own Home,Debt Consolidation,18691.25
+LN-1000351,IPBA3KY0VD,478390.0,Long Term,1063088.0,< 1 year,Home Mortgage,Debt Consolidation,20818.49
+LN-1000352,2BJ2YJCJH4,397540.0,Long Term,1621308.0,9 years,Home Mortgage,Debt Consolidation,39856.87
+LN-1000353,FU8IBQ5TLI,220396.0,Long Term,,10+ years,Home Mortgage,Debt Consolidation,17130.78
+LN-1000354,OFQK2UETC3,99999999.0,Short Term,1957190.0,< 1 year,Home Mortgage,Debt Consolidation,9769.61
+LN-1000355,8P0N5QKT8L,377476.0,Short Term,791711.0,,Rent,Debt Consolidation,16164.06
+LN-1000356,POGRW87MKP,322146.0,Short Term,1255387.0,5 years,Own Home,Debt Consolidation,13809.2
+LN-1000357,QQLJHKDTX6,326546.0,Long Term,658027.0,< 1 year,Rent,Debt Consolidation,7485.05
+LN-1000358,XHPVLRUU4W,135278.0,Short Term,584193.0,3 years,Rent,Medical Bills,16454.76
+LN-1000359,2DMJSSDE0Z,448668.0,Long Term,1472367.0,1 year,Rent,Debt Consolidation,15435.22
+LN-1000360,PG73S2BOYU,297660.0,Long Term,877097.0,7 years,Rent,Debt Consolidation,17396.02
+LN-1000361,2D2VP09QL2,698390.0,Long Term,1312254.0,10+ years,Rent,Debt Consolidation,24932.75
+LN-1000362,BPPOWFK4V5,90024.0,Short Term,583167.0,10+ years,Rent,Other,4859.82
+LN-1000363,NSIPLGEE62,601150.0,Short Term,2781315.0,7 years,Home Mortgage,Debt Consolidation,39170.21
+LN-1000364,9ESMRU9K6M,329978.0,Short Term,1747829.0,5 years,Home Mortgage,Debt Consolidation,26363.07
+LN-1000365,JA5ZLP0Y6I,108064.0,Short Term,761824.0,,Home Mortgage,Home Improvements,13585.76
+LN-1000366,JEETRF9V1B,251878.0,Short Term,1747962.0,10+ years,Rent,Debt Consolidation,27093.43
+LN-1000367,0RLNLRDLQT,328746.0,Short Term,1230307.0,3 years,Rent,Debt Consolidation,13840.93
+LN-1000368,XBGDETVBMK,220704.0,Short Term,,1 year,Home Mortgage,Debt Consolidation,6914.86
+LN-1000369,UK3CMZ7X0Z,753060.0,Long Term,1755315.0,10+ years,Rent,Debt Consolidation,35398.71
+LN-1000370,KR6G7QXBRD,465190.0,Short Term,,10+ years,Home Mortgage,Debt Consolidation,34515.78
+LN-1000371,1L8K1LJ1D6,328922.0,Short Term,,5 years,Rent,Business Loan,13256.11
+LN-1000372,2T8QQFM5W3,124366.0,Short Term,1764435.0,< 1 year,Home Mortgage,other,12174.63
+LN-1000373,IUBC9AEUPQ,480172.0,Short Term,1215810.0,1 year,Rent,Debt Consolidation,13272.83
+LN-1000374,36R638H1C6,155584.0,Short Term,860738.0,10+ years,Home Mortgage,Debt Consolidation,6986.3
+LN-1000375,LZ44KJQDP6,173008.0,Long Term,1307390.0,1 year,Rent,Debt Consolidation,26147.8
+LN-1000376,6YGAAAFU08,103884.0,Short Term,,1 year,Rent,Debt Consolidation,13481.26
+LN-1000377,N3YB5XEL12,124894.0,Short Term,,6 years,Own Home,Debt Consolidation,5150.71
+LN-1000378,2X2X8HHZDD,656766.0,Short Term,2268828.0,6 years,Home Mortgage,other,31574.58
+LN-1000379,U7DJ9WHTXX,157168.0,Short Term,775580.0,2 years,Home Mortgage,Debt Consolidation,10922.72
+LN-1000380,N8TWCP2JIW,341660.0,Long Term,1201446.0,< 1 year,Home Mortgage,Debt Consolidation,18622.66
+LN-1000381,NOV09TY4AN,259490.0,Long Term,1689727.0,7 years,Home Mortgage,Debt Consolidation,24641.86
+LN-1000382,M2YMY29KLP,418748.0,Short Term,993130.0,1 year,Rent,Debt Consolidation,8218.26
+LN-1000383,3VAEXCRSIH,88000.0,Short Term,722000.0,1 year,Rent,Debt Consolidation,16425.5
+LN-1000384,9XLGI7XLAS,264902.0,Long Term,653638.0,< 1 year,Home Mortgage,Debt Consolidation,13399.37
+LN-1000385,92QLFNGY7N,265694.0,Short Term,,1 year,Rent,Debt Consolidation,12096.92
+LN-1000386,7BPW7KHOZJ,479798.0,Short Term,941735.0,10+ years,Home Mortgage,Debt Consolidation,28095.11
+LN-1000387,XK0JHS3IH1,107822.0,Short Term,,1 year,Home Mortgage,Debt Consolidation,16683.71
+LN-1000388,D79A7U03TV,534534.0,Long Term,,10+ years,Home Mortgage,Debt Consolidation,32396.52
+LN-1000389,R3ZXXUHNMS,219516.0,Short Term,853119.0,4 years,Rent,Debt Consolidation,13706.79
+LN-1000390,7MEKG4L3VL,409574.0,Short Term,3632743.0,8 years,Home Mortgage,Debt Consolidation,64178.58
+LN-1000391,EH4F8XBTNL,193952.0,Short Term,812953.0,6 years,Home Mortgage,Debt Consolidation,11381.19
+LN-1000392,717SPK3FR2,270006.0,Short Term,913729.0,10+ years,Rent,Other,14771.93
+LN-1000393,JBN7W9W215,442838.0,Short Term,1065064.0,4 years,Home Mortgage,Debt Consolidation,4162.71
+LN-1000394,PHKNCLIPAR,492778.0,Long Term,1229452.0,6 years,Home Mortgage,Debt Consolidation,26842.82
+LN-1000395,RFWNRQ54EV,213950.0,Short Term,,< 1 year,Rent,Debt Consolidation,5251.6
+LN-1000396,XLEXIFZG6Q,267432.0,Short Term,2348134.0,3 years,Home Mortgage,Debt Consolidation,30330.08
+LN-1000397,EVC7UE5PA9,215996.0,Long Term,1492336.0,10+ years,Home Mortgage,Debt Consolidation,22011.88
+LN-1000398,AVG4MRSVLL,152196.0,Short Term,2264192.0,4 years,Home Mortgage,Debt Consolidation,23585.46
+LN-1000399,C04JH67ZAU,355168.0,Short Term,3642490.0,10+ years,Home Mortgage,Debt Consolidation,84384.51
+LN-1000400,BGVR6D11N4,99999999.0,Short Term,1535200.0,4 years,Home Mortgage,Debt Consolidation,9658.84
+LN-1000401,BO2NT2P0XV,429308.0,Long Term,1112298.0,10+ years,Home Mortgage,Debt Consolidation,24377.95
+LN-1000402,FWX32DQI73,267256.0,Short Term,,10+ years,Home Mortgage,Debt Consolidation,48020.22
+LN-1000403,5TJLF27695,115126.0,Long Term,1376759.0,10+ years,Home Mortgage,Buy a Car,12425.24
+LN-1000404,8WYQI26VAT,99999999.0,Short Term,658407.0,10+ years,Rent,other,9217.85
+LN-1000405,C4MKXAW9VO,260084.0,Short Term,1591098.0,4 years,Home Mortgage,Debt Consolidation,31158.86
+LN-1000406,HF210IIR88,44352.0,Short Term,1340374.0,7 years,Home Mortgage,Business Loan,16888.72
+LN-1000407,U929ZZRQ2Y,22132.0,Short Term,,3 years,Rent,other,6901.94
+LN-1000408,EU0QG32HRX,105908.0,Short Term,,10+ years,Rent,Debt Consolidation,9264.97
+LN-1000409,NKKT5VF7ZX,111628.0,Short Term,964060.0,9 years,Home Mortgage,Debt Consolidation,1815.64
+LN-1000410,9IMZRPSFKW,401544.0,LT,780273.0,2 years,Own Home,other,13849.86
+LN-1000411,1MN0K6MVUL,132198.0,Short Term,1008520.0,10+ years,Home Mortgage,Debt Consolidation,3193.52
+LN-1000412,75RUQWAV0G,430276.0,Long Term,891841.0,< 1 year,Rent,Debt Consolidation,13228.94
+LN-1000413,2ULVW61LVK,224312.0,Short Term,813637.0,4 years,Own Home,Debt Consolidation,13831.81
+LN-1000414,PIPWYTVC4N,437008.0,Long Term,1415310.0,7 years,Home Mortgage,Debt Consolidation,17101.71
+LN-1000415,VOE229ZRE1,65494.0,Short Term,414732.0,8 years,Home Mortgage,Debt Consolidation,6324.72
+LN-1000416,61IQRXCUFI,332618.0,Short Term,1225614.0,10+ years,Home Mortgage,Debt Consolidation,16137.27
+LN-1000417,BG5QCH8PBQ,,,,,,,
+LN-1000418,7VMY2LUXWF,134112.0,Short Term,2104136.0,10+ years,Own Home,Home Improvements,61545.94
+LN-1000419,0Q2B9MMGK1,99999999.0,Short Term,1513464.0,10+ years,Home Mortgage,Debt Consolidation,4716.94
+LN-1000420,5TOD9ZGD2Z,293832.0,Short Term,1672513.0,10+ years,Home Mortgage,Debt Consolidation,21463.73
+LN-1000421,CJ1UU6CZUK,99999999.0,Short Term,2426243.0,10+ years,Home Mortgage,Debt Consolidation,22847.12
+LN-1000422,7ZXOLAJK2D,258632.0,Short Term,986556.0,< 1 year,Rent,Debt Consolidation,18983.09
+LN-1000423,PCGSKLXJP7,259468.0,Long Term,963528.0,3 years,Home Mortgage,Debt Consolidation,11337.68
+LN-1000424,K3NG9JU4YR,195668.0,Long Term,1306801.0,9 years,Rent,Buy a Car,5314.3
+LN-1000425,ZTB29HM61J,39380.0,Short Term,,1 year,Home Mortgage,Debt Consolidation,4081.39
+LN-1000426,AR40JKR97S,352176.0,Long Term,1140570.0,10+ years,Home Mortgage,Debt Consolidation,16823.36
+LN-1000427,9525GAMYRG,437008.0,Long Term,,5 years,Home Mortgage,Debt Consolidation,30408.36
+LN-1000428,02SB0VMIZN,79156.0,Short Term,1139430.0,6 years,Home Mortgage,other,4348.91
+LN-1000429,A23WXI26TR,99999999.0,Short Term,1387418.0,10+ years,Home Mortgage,Home Improvements,33645.01
+LN-1000430,QAFN1NLWLB,322388.0,Short Term,1392092.0,2 years,Home Mortgage,Debt Consolidation,15162.19
+LN-1000431,9E2KK7QLS5,132330.0,Short Term,,10+ years,Home Mortgage,other,26452.75
+LN-1000432,6WZHFPK6SZ,291258.0,Long Term,1519639.0,3 years,Home Mortgage,Debt Consolidation,30899.51
+LN-1000433,FGLQ2ENE2K,108108.0,Short Term,,< 1 year,Rent,Debt Consolidation,10511.56
+LN-1000434,WETM6ZUYEW,326568.0,Short Term,,8 years,Rent,Debt Consolidation,2017.99
+LN-1000435,TSGWN68MJJ,109032.0,Short Term,1412327.0,3 years,Home Mortgage,other,8356.2
+LN-1000436,QCU15DMNHL,466246.0,Short Term,1975012.0,10+ years,Home Mortgage,Debt Consolidation,32916.74
+LN-1000437,YMYR5Z1XXE,99999999.0,Short Term,2313972.0,9 years,Home Mortgage,small_business,31817.21
+LN-1000438,9RNTGAV605,180620.0,Short Term,835753.0,7 years,Rent,Debt Consolidation,13093.47
+LN-1000439,NGYH5GFZ2W,755832.0,Short Term,,3 years,Rent,Debt Consolidation,38680.96
+LN-1000440,F9JZARZGSN,314226.0,Long Term,,1 year,Home Mortgage,other,34959.43
+LN-1000441,0WIM1C1O8B,348414.0,Short Term,1410465.0,10+ years,Home Mortgage,other,22097.38
+LN-1000442,IJJ75MQZ2Y,155210.0,Short Term,861764.0,10+ years,Rent,Debt Consolidation,20825.71
+LN-1000443,0IHB4VAE85,763840.0,Long Term,1809408.0,6 years,Rent,Debt Consolidation,39957.76
+LN-1000444,4XUCKGCFX9,432916.0,Long Term,1177734.0,1 year,Home Mortgage,Debt Consolidation,21297.29
+LN-1000445,DIXINNJ8LQ,102630.0,Short Term,643834.0,< 1 year,Home Mortgage,Debt Consolidation,18403.02
+LN-1000446,543RDNON6F,644688.0,Long Term,,4 years,Home Mortgage,Debt Consolidation,27838.8
+LN-1000447,XLR7FQQOHK,99999999.0,Short Term,2233488.0,6 years,Rent,Debt Consolidation,29593.64
+LN-1000448,0ZU2FQW8LB,336006.0,Short Term,,10+ years,Home Mortgage,Debt Consolidation,8299.39
+LN-1000449,O5BN7FL9HO,304062.0,Short Term,1781896.0,10+ years,Home Mortgage,Debt Consolidation,14121.56
+LN-1000450,RAWHW9SUY4,262108.0,Short Term,924293.0,10+ years,Rent,Debt Consolidation,13171.18
+LN-1000451,1YWU3D58E3,97416.0,Short Term,,,HaveMortgage,Take a Trip,8110.53
+LN-1000452,NQ2L7YHTTU,266816.0,Short Term,2150762.0,3 years,Home Mortgage,Home Improvements,19894.71
+LN-1000453,1SQTG5FHNE,664224.0,Long Term,3824320.0,1 year,Rent,Debt Consolidation,53221.66
+LN-1000454,MKFN5L089M,435468.0,Short Term,1617166.0,8 years,Home Mortgage,Debt Consolidation,18597.39
+LN-1000455,F01Z8HQDTU,449240.0,Long Term,1532521.0,10+ years,Own Home,Debt Consolidation,17113.3
+LN-1000456,QF46PYSFAV,632280.0,Long Term,,10+ years,Home Mortgage,Debt Consolidation,37004.21
+LN-1000457,32HC7H1Q1N,442816.0,Short Term,,3 years,Home Mortgage,Debt Consolidation,33931.34
+LN-1000458,CMNMOOHXOQ,217668.0,Short Term,1246856.0,10+ years,Own Home,Debt Consolidation,22235.7
+LN-1000459,SN32BG8OHC,143836.0,Short Term,687971.0,10+ years,Home Mortgage,Debt Consolidation,5434.95
+LN-1000460,TH3739NPDB,87780.0,Short Term,929195.0,8 years,Own Home,Debt Consolidation,9911.54
+LN-1000461,JCGNY7TLXC,174636.0,Short Term,1168804.0,10+ years,Home Mortgage,Debt Consolidation,24350.21
+LN-1000462,5MZZ4J7QBQ,333432.0,Short Term,1919760.0,7 years,Rent,Debt Consolidation,24316.96
+LN-1000463,W2GAUDI70P,153054.0,Long Term,1938646.0,10+ years,Home Mortgage,Debt Consolidation,4878.82
+LN-1000464,45B8V42M22,,,,,,,
+LN-1000465,QO19US26CP,471636.0,Short Term,,7 years,Home Mortgage,Debt Consolidation,24605.19
+LN-1000466,1FORAHSJTI,402116.0,Short Term,,5 years,Own Home,Debt Consolidation,8162.21
+LN-1000467,PICULRWJ0P,99999999.0,Short Term,1363345.0,10+ years,Rent,Debt Consolidation,15451.37
+LN-1000468,YMJZKXFY08,297902.0,Short Term,808317.0,8 years,Home Mortgage,Business Loan,14482.56
+LN-1000469,4D2LLAUH3P,582648.0,Long Term,1645039.0,2 years,Rent,Debt Consolidation,24949.85
+LN-1000470,KHN1H0SUA0,393272.0,Long Term,1777754.0,2 years,Home Mortgage,Home Improvements,18814.56
+LN-1000471,EK7ID36HSW,414744.0,Short Term,1164225.0,10+ years,Rent,Debt Consolidation,14746.66
+LN-1000472,LF3FW6HAUS,178244.0,Short Term,1712641.0,5 years,Rent,Debt Consolidation,8406.17
+LN-1000473,NF0XJ0FSF2,759770.0,Long Term,,10+ years,Home Mortgage,Debt Consolidation,13744.98
+LN-1000474,LPW2NYR8M3,53636.0,Short Term,1204372.0,2 years,Home Mortgage,Home Improvements,15175.11
+LN-1000475,HBYBE49BJ3,67474.0,Short Term,,7 years,Rent,Debt Consolidation,24569.09
+LN-1000476,LNNZY4O6MG,295570.0,Short Term,1048268.0,4 years,Home Mortgage,Debt Consolidation,16335.44
+LN-1000477,3CUURD5NHP,87736.0,Short Term,606176.0,2 years,Rent,Other,1763.01
+LN-1000478,SJTGJ7RWE0,,,,,,,
+LN-1000479,7HNFV6RKZD,450252.0,Short Term,2080367.0,10+ years,Home Mortgage,other,18723.36
+LN-1000480,RB3XRWJGQ2,98032.0,Short Term,539600.0,< 1 year,Rent,Debt Consolidation,6475.2
+LN-1000481,D1DR70CMUP,647064.0,Long Term,1955898.0,10+ years,Home Mortgage,Buy House,6796.87
+LN-1000482,HR7LFZJVPX,270226.0,Short Term,1750356.0,10+ years,Rent,other,34569.55
+LN-1000483,62O7KZCJU9,99999999.0,Short Term,592534.0,10+ years,Rent,Debt Consolidation,7061.16
+LN-1000484,WXY7UZES7G,772398.0,Long Term,3621191.0,10+ years,Home Mortgage,Debt Consolidation,52507.26
+LN-1000485,ZROKYQMA88,400180.0,Short Term,1042378.0,4 years,Rent,Debt Consolidation,17703.25
+LN-1000486,GQTZCUPWIV,99999999.0,Short Term,752552.0,6 years,Home Mortgage,Home Improvements,14361.15
+LN-1000487,AFVPBHPL0U,437580.0,Long Term,1100480.0,8 years,Home Mortgage,Debt Consolidation,16323.66
+LN-1000488,08OPUVJNN6,99999999.0,Short Term,1455495.0,< 1 year,Home Mortgage,Home Improvements,20255.71
+LN-1000489,13AC0XTQYJ,410498.0,Long Term,1083361.0,8 years,Home Mortgage,Debt Consolidation,20674.28
+LN-1000490,O33TAI2S0Y,161722.0,Short Term,475323.0,2 years,Rent,Debt Consolidation,11685.0
+LN-1000491,80LQA345UX,696124.0,Short Term,1945600.0,5 years,Own Home,Debt Consolidation,30318.87
+LN-1000492,O7LC2FMAX7,392172.0,Long Term,1349114.0,5 years,Home Mortgage,Debt Consolidation,29006.16
+LN-1000493,JSWR1DO0EJ,773938.0,Short Term,3341967.0,7 years,Rent,Debt Consolidation,21332.82
+LN-1000494,P9S5E0IG95,257884.0,Long Term,,2 years,Rent,small_business,5899.88
+LN-1000495,HB1A6VLY35,453134.0,Short Term,1639890.0,6 years,Rent,Debt Consolidation,22958.65
+LN-1000496,F42LZQ95IJ,120450.0,Long Term,786448.0,3 years,Rent,Debt Consolidation,4666.21
+LN-1000497,L4O7QDACA8,486090.0,Long Term,1049845.0,10+ years,Rent,Debt Consolidation,29570.65
+LN-1000498,O0C7ZHJZMN,79046.0,Short Term,258077.0,,Rent,Debt Consolidation,2709.78
+LN-1000499,TAH4A5K6HM,255420.0,Long Term,,10+ years,Home Mortgage,Debt Consolidation,2238.58
+LN-1000500,7LOHEC1SH5,218372.0,Short Term,1151932.0,< 1 year,Rent,Debt Consolidation,9148.31
+LN-1000501,CZ8D6EZK3R,262768.0,Long Term,1701963.0,3 years,Rent,Debt Consolidation,29642.47
+LN-1000502,GT7NZQ0KWS,220858.0,Short Term,2861115.0,3 years,Home Mortgage,Debt Consolidation,46016.29
+LN-1000503,PWMG15KNB3,299442.0,Long Term,978025.0,7 years,Home Mortgage,Debt Consolidation,14833.3
+LN-1000504,R30H2IUZWB,429858.0,Short Term,2105238.0,10+ years,Home Mortgage,Debt Consolidation,38771.4
+LN-1000505,0ZPGWEE2UP,99999999.0,Long Term,2527323.0,4 years,Home Mortgage,Debt Consolidation,39805.38
+LN-1000506,3GDRJ6VV5Z,619256.0,Long Term,1898860.0,10+ years,Rent,Debt Consolidation,21678.81
+LN-1000507,B66QAO2KEW,654060.0,Short Term,1412175.0,2 years,Rent,Home Improvements,17652.14
+LN-1000508,2GLF6RBO99,174702.0,Short Term,810958.0,5 years,Own Home,wedding,11920.98
+LN-1000509,EE5XMFZBEV,180092.0,Short Term,699865.0,10+ years,Rent,Debt Consolidation,9856.44
+LN-1000510,2PEEODDR4W,267476.0,Short Term,1925080.0,6 years,Rent,Debt Consolidation,14534.43
+LN-1000511,OU9F6PZ9S8,219318.0,Long Term,1231181.0,6 years,Home Mortgage,Debt Consolidation,8905.49
+LN-1000512,K2C1AMJB32,331980.0,Long Term,2064312.0,10+ years,Home Mortgage,Debt Consolidation,34749.29
+LN-1000513,8Q7Z3SAAV6,352132.0,Short Term,,4 years,Rent,Debt Consolidation,3285.1
+LN-1000514,G07VK6WM5C,108702.0,Short Term,1839846.0,< 1 year,Rent,Other,9459.72
+LN-1000515,DEQ657KS7D,130196.0,Short Term,712177.0,6 years,Rent,Debt Consolidation,8012.11
+LN-1000516,HADEDX2DAZ,131890.0,Short Term,,10+ years,Rent,Debt Consolidation,6910.11
+LN-1000517,V1IEGSC21J,610280.0,Long Term,2691730.0,10+ years,Home Mortgage,Debt Consolidation,28038.87
+LN-1000518,JI1UGOGD9N,99999999.0,Short Term,919296.0,,Rent,Debt Consolidation,5385.55
+LN-1000519,8PTGGXMKKM,328196.0,Short Term,,10+ years,Home Mortgage,Debt Consolidation,19289.18
+LN-1000520,KK3MDMBVGN,349294.0,Short Term,1771009.0,8 years,Home Mortgage,Home Improvements,16234.36
+LN-1000521,RGFG6JPLWO,,,,,,,
+LN-1000522,KIWMDUSC25,150744.0,Short Term,1115946.0,3 years,Rent,Debt Consolidation,17297.22
+LN-1000523,N0PW7FNWBG,155760.0,Short Term,807101.0,10+ years,Own Home,Debt Consolidation,16680.1
+LN-1000524,15Z41IWHZO,108130.0,Short Term,644366.0,1 year,Rent,Debt Consolidation,3978.98
+LN-1000525,RVIKX9YIP5,,,,,,,
+LN-1000526,3Q9G62NZ1P,435732.0,Short Term,1787501.0,4 years,Rent,Debt Consolidation,23982.18
+LN-1000527,T5A0IOQ2IA,99999999.0,Long Term,1178589.0,4 years,Home Mortgage,Business Loan,9045.71
+LN-1000528,VJKA8DXF92,660660.0,Long Term,4184180.0,5 years,Home Mortgage,Debt Consolidation,26674.1
+LN-1000529,L64JDV2CJ1,105270.0,Short Term,1231181.0,10+ years,Home Mortgage,Debt Consolidation,20109.22
+LN-1000530,AAEOPI0CJ4,,,,,,,
+LN-1000531,1M1JKOEHO9,220682.0,S,2858835.0,6 years,Rent,other,22799.24
+LN-1000532,D25FFX3RFB,,,,,,,
+LN-1000533,Q7TE42QLYV,777326.0,Short Term,2301660.0,10+ years,Home Mortgage,Debt Consolidation,30305.19
+LN-1000534,SE2T5WPOEN,233552.0,Short Term,,3 years,Rent,Debt Consolidation,17047.94
+LN-1000535,YO5D4RK1ON,360712.0,Long Term,866571.0,2 years,Own Home,Debt Consolidation,24191.75
+LN-1000536,EZQCI4VAY8,221364.0,Short Term,,10+ years,Home Mortgage,Debt Consolidation,16007.88
+LN-1000537,AHVRBMHBNB,65978.0,Long Term,,5 years,Rent,other,4690.72
+LN-1000538,J3GU0Z3SZL,312884.0,Short Term,753236.0,< 1 year,Home Mortgage,Debt Consolidation,16257.35
+LN-1000539,XTC9FLZO5R,601392.0,Short Term,,10+ years,Home Mortgage,Debt Consolidation,8260.82
+LN-1000540,9PIZAH6ZLP,554400.0,Short Term,2298240.0,2 years,Rent,other,6243.59
+LN-1000541,GSR2H5849R,112662.0,Short Term,525407.0,1 year,Home Mortgage,Debt Consolidation,7662.32
+LN-1000542,A9V7MDXUO5,105974.0,Short Term,269781.0,1 year,Rent,Debt Consolidation,5373.01
+LN-1000543,G5TSXSYIS3,25960.0,Short Term,654094.0,< 1 year,Rent,other,2469.24
+LN-1000544,CP0SDONOIS,244772.0,Short Term,660611.0,10+ years,Rent,Debt Consolidation,18717.28
+LN-1000545,M7T1VD0YET,405702.0,Long Term,1070612.0,9 years,Home Mortgage,Debt Consolidation,20430.51
+LN-1000546,C6L7XDPUH7,99999999.0,Short Term,787151.0,9 years,Rent,Business Loan,8724.23
+LN-1000547,SDBM2HCX5R,436040.0,L,1127859.0,5 years,Home Mortgage,Debt Consolidation,19267.52
+LN-1000548,473APC1Q71,211156.0,Long Term,1177848.0,5 years,Home Mortgage,Home Improvements,14173.24
+LN-1000549,JH08P7WCBY,279246.0,Short Term,981673.0,< 1 year,Rent,Debt Consolidation,2887.81
+LN-1000550,4DHHCH3LYF,222464.0,Short Term,1133559.0,8 years,Home Mortgage,Home Improvements,3117.33
+LN-1000551,AW1WCBYPQ4,267740.0,Short Term,,7 years,Rent,Debt Consolidation,3948.58
+LN-1000552,Q14Y4BJJGQ,194128.0,Short Term,1024328.0,6 years,Home Mortgage,other,8117.75
+LN-1000553,QCOU1OHCAE,154682.0,Short Term,534337.0,2 years,Rent,Debt Consolidation,4065.43
+LN-1000554,DKO7JCKLP5,393426.0,Long Term,943825.0,10+ years,Own Home,Debt Consolidation,24618.11
+LN-1000555,X2KLTV45I2,65318.0,Short Term,470060.0,3 years,Rent,Debt Consolidation,1786.19
+LN-1000556,CLTRIGACOI,758912.0,Long Term,3651648.0,5 years,Home Mortgage,Debt Consolidation,23522.76
+LN-1000557,G7QCB29A3N,783860.0,Short Term,2127620.0,< 1 year,Home Mortgage,Debt Consolidation,33155.57
+LN-1000558,CLCTWB3DWG,65890.0,Short Term,1062195.0,10+ years,Home Mortgage,Home Improvements,12126.56
+LN-1000559,9GRI824SFW,222904.0,Short Term,770032.0,4 years,Rent,Other,7892.79
+LN-1000560,1E0N3IHY7Q,171534.0,Short Term,448666.0,6 years,Rent,Debt Consolidation,12599.85
+LN-1000561,WS2Z7A60WJ,247082.0,Short Term,742368.0,,Own Home,Debt Consolidation,18126.19
+LN-1000562,MMVOG9V7RE,65318.0,Short Term,902519.0,10+ years,Rent,Debt Consolidation,18952.88
+LN-1000563,06D48OPWLT,229614.0,Short Term,,3 years,Rent,Debt Consolidation,16377.62
+LN-1000564,E5917XUBUC,67650.0,Short Term,1402200.0,2 years,Home Mortgage,Debt Consolidation,4428.71
+LN-1000565,WCNY1LHMJD,,,,,,,
+LN-1000566,R5U06O0EDG,99999999.0,Short Term,1101848.0,10+ years,Home Mortgage,Debt Consolidation,6684.58
+LN-1000567,TBLLSUHIOQ,151580.0,Short Term,785479.0,2 years,Rent,Debt Consolidation,13942.2
+LN-1000568,3L4TR2B6D9,99999999.0,Short Term,961077.0,8 years,Rent,Debt Consolidation,22825.46
+LN-1000569,GMYV2QLIVF,233926.0,Short Term,962065.0,4 years,Own Home,Debt Consolidation,7584.42
+LN-1000570,K7QSXCZG22,223322.0,Short Term,617177.0,,Rent,Debt Consolidation,12755.08
+LN-1000571,WDWS80V7IT,222200.0,Long Term,1074640.0,10+ years,Home Mortgage,Debt Consolidation,20955.48
+LN-1000572,XMYED9UDEW,404008.0,Long Term,,6 years,Home Mortgage,Debt Consolidation,42159.86
+LN-1000573,3K4C4MCB3I,99999999.0,Short Term,2288664.0,< 1 year,Home Mortgage,other,1239.75
+LN-1000574,2NRR5CHZEF,517220.0,Long Term,,10+ years,Home Mortgage,Debt Consolidation,4138.01
+LN-1000575,QAVMKGN5TG,48972.0,Short Term,394725.0,3 years,Rent,Debt Consolidation,3651.23
+LN-1000576,YA97HOY8AA,108262.0,Short Term,710524.0,5 years,Rent,Take a Trip,3700.63
+LN-1000577,IT88WXICSA,99999999.0,Short Term,2796420.0,10+ years,Home Mortgage,Debt Consolidation,24701.71
+LN-1000578,5J8V94MDYG,262416.0,Short Term,,10+ years,Home Mortgage,Debt Consolidation,26220.0
+LN-1000579,41E03QRKM2,88396.0,Short Term,,4 years,Own Home,Debt Consolidation,5803.17
+LN-1000580,0L1VKAJNG2,221122.0,Short Term,2005184.0,1 year,Rent,Other,4628.78
+LN-1000581,IUUOTXR9HI,322388.0,Short Term,1911799.0,3 years,Rent,Debt Consolidation,15390.0
+LN-1000582,PDMK003WRM,,,,,,,
+LN-1000583,LDUPW9H4O3,150942.0,Short Term,,4 years,Home Mortgage,Debt Consolidation,5122.02
+LN-1000584,14TR9GE75W,780098.0,Long Term,3849780.0,1 year,Home Mortgage,Other,25921.89
+LN-1000585,GAZP5N7HC7,260524.0,Short Term,787474.0,< 1 year,Rent,Debt Consolidation,5886.39
+LN-1000586,GEUPN66FGG,426404.0,Long Term,,9 years,Home Mortgage,Debt Consolidation,25147.45
+LN-1000587,8K4RRM06EG,354068.0,Long Term,955605.0,,Own Home,Other,6745.0
+LN-1000588,JK1MFILWVS,162272.0,Short Term,650522.0,2 years,Own Home,other,19624.15
+LN-1000589,UG1TH0JVNT,87582.0,Short Term,926630.0,10+ years,Rent,Debt Consolidation,19227.43
+LN-1000590,31X06DORJN,126192.0,Short Term,2653616.0,2 years,Home Mortgage,Debt Consolidation,4643.79
+LN-1000591,2PZD0WGKKC,54692.0,Short Term,753939.0,5 years,Rent,Buy a Car,7979.24
+LN-1000592,842IOPF78L,533874.0,Long Term,,3 years,Home Mortgage,Debt Consolidation,40950.89
+LN-1000593,VIIH70ELT1,404756.0,Short Term,3107184.0,3 years,Home Mortgage,Debt Consolidation,52045.37
+LN-1000594,RYHQHPE0VT,67562.0,Short Term,855722.0,10+ years,Rent,Debt Consolidation,11573.66
+LN-1000595,ULJO672GMD,154660.0,Short Term,,2 years,Rent,major_purchase,23756.65
+LN-1000596,WQCOJ6AVIZ,156486.0,Short Term,772312.0,10+ years,Rent,Debt Consolidation,21174.36
+LN-1000597,Q3ITTR2BDF,109604.0,Short Term,1299049.0,4 years,Rent,other,12665.59
+LN-1000598,K9I9A2O968,200354.0,Short Term,,10+ years,Home Mortgage,Home Improvements,12304.78
+LN-1000599,C5BHQ1DFI5,99999999.0,Short Term,1735479.0,10+ years,Home Mortgage,other,20825.71
+LN-1000600,64CYIFXQQ6,111914.0,Short Term,947131.0,5 years,Rent,Other,576.27
+LN-1000601,DUWAE3F99P,379082.0,Long Term,,10+ years,Home Mortgage,Home Improvements,15214.63
+LN-1000602,X4AYY48FOQ,430056.0,Long Term,2050461.0,10+ years,Home Mortgage,Debt Consolidation,32636.49
+LN-1000603,Y4WYPFO0P4,26312.0,Short Term,795283.0,10+ years,Rent,Debt Consolidation,12393.13
+LN-1000604,9IOKXL3T8V,758450.0,Long Term,1684350.0,1 year,Rent,Debt Consolidation,29335.81
+LN-1000605,M0M5IFTBKF,112552.0,Short Term,,10+ years,Rent,Debt Consolidation,11857.71
+LN-1000606,NLWPNQG0P1,271436.0,Short Term,,10+ years,Own Home,Debt Consolidation,31403.2
+LN-1000607,FY6R339FU8,646008.0,Short Term,,3 years,Home Mortgage,Debt Consolidation,26663.65
+LN-1000608,Q6G7T0U51G,260304.0,Short Term,1498720.0,8 years,Rent,Debt Consolidation,18234.3
+LN-1000609,UFOD423L56,112090.0,Short Term,371735.0,< 1 year,Rent,Debt Consolidation,3330.13
+LN-1000610,LT9N63QPID,224158.0,Short Term,1161546.0,10+ years,Home Mortgage,Debt Consolidation,6252.9
+LN-1000611,AYP8SMHI36,423280.0,Short Term,2760795.0,10+ years,Rent,Debt Consolidation,30828.83
+LN-1000612,X03KD6UYOP,217778.0,Short Term,1072056.0,2 years,Rent,Debt Consolidation,14651.47
+LN-1000613,BFAF2NRP5S,174944.0,Short Term,1582852.0,7 years,Rent,Debt Consolidation,32316.53
+LN-1000614,ADRG6QFWJ1,266684.0,Short Term,997994.0,8 years,Rent,Debt Consolidation,14221.5
+LN-1000615,5TEKXA53O6,320694.0,Short Term,769880.0,9 years,Own Home,Debt Consolidation,15269.54
+LN-1000616,JOWSMXSW8H,396836.0,Short Term,,< 1 year,Rent,Debt Consolidation,11035.2
+LN-1000617,T8AN803V0B,150502.0,Short Term,1741597.0,10+ years,Home Mortgage,Home Improvements,16690.36
+LN-1000618,V6CBI0FCFW,678062.0,Long Term,,< 1 year,Home Mortgage,Debt Consolidation,28484.99
+LN-1000619,1YHY4XY1UG,99999999.0,Short Term,1116250.0,6 years,Rent,Debt Consolidation,6241.69
+LN-1000620,614L28K37I,246532.0,Short Term,1612264.0,3 years,Own Home,Home Improvements,19481.27
+LN-1000621,EUMQ81MUYN,388872.0,Short Term,,10+ years,Home Mortgage,Debt Consolidation,33533.1
+LN-1000622,WRHGYZ3JCM,99999999.0,Short Term,2358793.0,10+ years,Own Home,Other,5779.04
+LN-1000623,POKX7MVPH4,174548.0,Short Term,659547.0,3 years,Rent,Debt Consolidation,7749.72
+LN-1000624,IN62AZTGFC,204864.0,Short Term,738815.0,10+ years,Home Mortgage,Debt Consolidation,16254.12
+LN-1000625,1M2541C3SH,326150.0,Short Term,1877770.0,10+ years,Rent,Debt Consolidation,17056.3
+LN-1000626,BUIBIWLPEN,444664.0,Short Term,,5 years,Rent,Debt Consolidation,22817.86
+LN-1000627,1QQBHVD193,332112.0,Short Term,1242904.0,1 year,Home Mortgage,Debt Consolidation,11600.45
+LN-1000628,VA6HX22A4A,412764.0,Long Term,1541052.0,7 years,Home Mortgage,Debt Consolidation,14652.8
+LN-1000629,F04K0Q99TC,352528.0,Short Term,989482.0,3 years,Rent,Debt Consolidation,12203.51
+LN-1000630,SHRYFDDDSS,161304.0,Short Term,1300208.0,9 years,Rent,Debt Consolidation,6609.34
+LN-1000631,KXE4DA0QN9,393162.0,Short Term,1047755.0,,Home Mortgage,other,22264.77
+LN-1000632,VT558R3Z9A,490930.0,Short Term,847951.0,1 year,Home Mortgage,Debt Consolidation,20209.73
+LN-1000633,0EXB5YTZMK,755766.0,Long Term,1864850.0,10+ years,Home Mortgage,Debt Consolidation,27195.65
+LN-1000634,64NSFLBQ91,177914.0,Short Term,768284.0,5 years,Own Home,Debt Consolidation,4142.38
+LN-1000635,BECSYU5FXC,67342.0,Short Term,1163142.0,3 years,Rent,Debt Consolidation,20355.08
+LN-1000636,MDE0C4K91J,205678.0,Short Term,1187424.0,< 1 year,Home Mortgage,Debt Consolidation,14150.06
+LN-1000637,YJDGXI1K9W,552486.0,Long Term,1526840.0,3 years,Home Mortgage,Debt Consolidation,36771.46
+LN-1000638,9O5HIS4G8K,325446.0,Long Term,1386601.0,2 years,Own Home,Debt Consolidation,20879.86
+LN-1000639,K67W3Z3AIB,224488.0,Short Term,1134167.0,2 years,Home Mortgage,Debt Consolidation,15500.39
+LN-1000640,LX5PTYDZAJ,193754.0,Short Term,622649.0,,Own Home,Debt Consolidation,13335.15
+LN-1000641,7LBVC9Q2HF,765314.0,Long Term,1888410.0,5 years,Home Mortgage,Home Improvements,10543.48
+LN-1000642,BOYQUFE976,131120.0,Short Term,,2 years,Rent,Debt Consolidation,32201.58
+LN-1000643,JW56H8ZF48,334796.0,Long Term,1060162.0,10+ years,Home Mortgage,Debt Consolidation,30214.37
+LN-1000644,AW8KXJNGRE,44792.0,Short Term,1198976.0,10+ years,Home Mortgage,Home Improvements,14487.69
+LN-1000645,8I2IH07SAN,131164.0,Short Term,,6 years,Rent,Debt Consolidation,17487.79
+LN-1000646,KV9JGAB98H,66044.0,Short Term,418209.0,4 years,Rent,other,2641.76
+LN-1000647,N6YGFFC9MY,172172.0,Short Term,634410.0,,Home Mortgage,Home Improvements,4662.79
+LN-1000648,1CYQTVR0VT,68662.0,Short Term,1482456.0,,Home Mortgage,other,30266.81
+LN-1000649,8C11OOEXY0,377058.0,Long Term,862011.0,5 years,Home Mortgage,Debt Consolidation,13073.9
+LN-1000650,Q4VE4T86SX,150898.0,Short Term,665874.0,5 years,Rent,Debt Consolidation,3745.66
+LN-1000651,6QIWS84MNH,140976.0,Short Term,1369786.0,10+ years,Own Home,Debt Consolidation,29107.81
+LN-1000652,0K36NZ5C5N,32318.0,Short Term,840218.0,,Home Mortgage,other,7982.09
+LN-1000653,MEA4BI3NHR,260128.0,Long Term,1310449.0,10+ years,Home Mortgage,Home Improvements,3691.13
+LN-1000654,RQ72BL8ZFO,268246.0,Short Term,1405468.0,6 years,Rent,Debt Consolidation,12649.25
+LN-1000655,EKYS1BTD53,174548.0,Short Term,,,Home Mortgage,Debt Consolidation,18067.86
+LN-1000656,5AW9P2L0J9,335742.0,Long Term,1391807.0,10+ years,Home Mortgage,Debt Consolidation,28299.93
+LN-1000657,OLZ952M3PH,357918.0,Short Term,811414.0,10+ years,Home Mortgage,Debt Consolidation,11968.29
+LN-1000658,7IVOFVU8G1,133892.0,Short Term,761311.0,< 1 year,Home Mortgage,Debt Consolidation,8120.6
+LN-1000659,Y0ESE7QP0Z,,,,,,,
+LN-1000660,6R5Q9IM9PM,162338.0,Short Term,,2 years,Rent,Debt Consolidation,3057.48
+LN-1000661,XARSEJD3F4,188628.0,Short Term,814511.0,5 years,Rent,Debt Consolidation,6536.57
+LN-1000662,EWXLTDO14A,99999999.0,Short Term,2626750.0,6 years,Own Home,Debt Consolidation,22327.47
+LN-1000663,IJG08C4GKO,123574.0,Short Term,,2 years,Rent,Debt Consolidation,33365.52
+LN-1000664,NVRS2LZB29,558734.0,Long Term,1276439.0,10+ years,Home Mortgage,Debt Consolidation,25741.58
+LN-1000665,TCWBIH6V1S,447920.0,Short Term,1895516.0,< 1 year,Home Mortgage,Debt Consolidation,24325.89
+LN-1000666,KQD5CG4RO2,313918.0,Short Term,,,Rent,Debt Consolidation,23193.3
+LN-1000667,L9IY6VCZSJ,448888.0,Long Term,973864.0,10+ years,Home Mortgage,Debt Consolidation,22155.52
+LN-1000668,KEA4URLADD,721644.0,Long Term,1888600.0,10+ years,Home Mortgage,Debt Consolidation,26755.23
+LN-1000669,PF5WHLPD6J,175164.0,Short Term,850991.0,2 years,Home Mortgage,Debt Consolidation,9928.07
+LN-1000670,TK7ZD2EJ6N,196130.0,Short Term,1223277.0,10+ years,Home Mortgage,Debt Consolidation,18247.03
+LN-1000671,ZA85FAO4OU,111034.0,Short Term,460237.0,< 1 year,Rent,Debt Consolidation,8552.85
+LN-1000672,QJAAUE3HNG,258324.0,Short Term,658141.0,1 year,Rent,Debt Consolidation,13162.82
+LN-1000673,X8BTGIUXRT,415426.0,Long Term,800470.0,8 years,Home Mortgage,Debt Consolidation,13274.54
+LN-1000674,P2VZNNUU8T,143550.0,Short Term,664867.0,10+ years,Rent,Debt Consolidation,8920.31
+LN-1000675,6HKL4MCHD6,465190.0,Long Term,2678354.0,2 years,Home Mortgage,Business Loan,45085.67
+LN-1000676,OKKS9QMPVE,106942.0,Short Term,503956.0,2 years,Own Home,other,9407.09
+LN-1000677,QNIFHBVXGN,132044.0,Short Term,,10+ years,Rent,other,17463.28
+LN-1000678,P4DNLPNFZU,434104.0,Short Term,,10+ years,Home Mortgage,Debt Consolidation,28474.35
+LN-1000679,UP7EI5SMZR,336204.0,Short Term,,5 years,Home Mortgage,Business Loan,6266.96
+LN-1000680,SIECV9KZTV,350174.0,Long Term,1171882.0,2 years,Home Mortgage,Home Improvements,4277.28
+LN-1000681,MDP7QZISWU,178200.0,Short Term,769500.0,3 years,Rent,small_business,8464.5
+LN-1000682,FKQBRZQ76Z,264858.0,Short Term,522842.0,10+ years,Own Home,Home Improvements,6840.57
+LN-1000683,93KTHU76TO,616132.0,S,2233450.0,,Home Mortgage,Debt Consolidation,19914.85
+LN-1000684,UM6LRCW7Q8,314336.0,Short Term,942590.0,6 years,Home Mortgage,Debt Consolidation,19008.93
+LN-1000685,IPSF8BRSWL,150744.0,Short Term,699523.0,10+ years,Rent,Debt Consolidation,15797.74
+LN-1000686,UNQ78A365D,140866.0,Short Term,1197760.0,4 years,Rent,Debt Consolidation,15970.07
+LN-1000687,IPQACGUJ9A,719774.0,Short Term,,4 years,Home Mortgage,Debt Consolidation,69252.34
+LN-1000688,GZRSMFJPKE,268906.0,Short Term,909606.0,< 1 year,Rent,Debt Consolidation,16145.63
+LN-1000689,PH7UIUR8K1,193468.0,Short Term,1120221.0,10+ years,Home Mortgage,Debt Consolidation,9073.83
+LN-1000690,URWFMEF74X,106238.0,Short Term,2867100.0,1 year,Home Mortgage,Debt Consolidation,47785.0
+LN-1000691,70SFFAM5YN,435864.0,Long Term,1580401.0,7 years,Home Mortgage,Debt Consolidation,21862.16
+LN-1000692,2JKK981LQP,134222.0,Long Term,1255748.0,10+ years,Rent,Debt Consolidation,3128.92
+LN-1000693,70Z1PV4VQW,261932.0,Short Term,,< 1 year,Rent,Debt Consolidation,5523.49
+LN-1000694,Q4AERDZBUY,,,,,,,
+LN-1000695,P9A8SHRE1Q,103642.0,Short Term,1715491.0,5 years,Home Mortgage,Debt Consolidation,9049.13
+LN-1000696,8ZGOZJNZGV,443564.0,Long Term,2145233.0,9 years,Home Mortgage,Debt Consolidation,29139.35
+LN-1000697,KENA7MG0T1,184580.0,Short Term,759088.0,< 1 year,Own Home,Debt Consolidation,16004.08
+LN-1000698,DP19U7DDI0,128942.0,Short Term,842517.0,< 1 year,Rent,Debt Consolidation,10320.8
+LN-1000699,NI253M4HN8,156662.0,Short Term,1005100.0,< 1 year,Rent,Buy House,15662.65
+LN-1000700,JF4IS4TNFP,540672.0,Short Term,1945600.0,,Rent,Other,26589.93
+LN-1000701,WMW1Q4LC41,173272.0,Short Term,1870550.0,9 years,Rent,Debt Consolidation,35540.45
+LN-1000702,QH0F9N75S2,239712.0,Short Term,704596.0,< 1 year,Rent,Debt Consolidation,7433.56
+LN-1000703,NA4578HCDF,754292.0,Long Term,1600674.0,10+ years,Rent,Other,22542.74
+LN-1000704,HJUVD73OJ2,560340.0,Short Term,1161432.0,2 years,Home Mortgage,Debt Consolidation,26519.44
+LN-1000705,SWDQ5KDDVC,261008.0,Short Term,1127118.0,7 years,Rent,Debt Consolidation,21509.14
+LN-1000706,PHJXYWHH9A,218020.0,Short Term,546041.0,6 years,Rent,Business Loan,1223.98
+LN-1000707,O7H5QR2SWG,197692.0,Short Term,948537.0,< 1 year,Rent,Debt Consolidation,11224.25
+LN-1000708,NX4USL3LM8,,,,,,,
+LN-1000709,5L9LYETC9B,450164.0,Long Term,1943890.0,2 years,Rent,Debt Consolidation,9039.06
+LN-1000710,HPXX7VQQUX,605440.0,Long Term,1075438.0,9 years,Home Mortgage,Debt Consolidation,13980.77
+LN-1000711,3XVCUIXSD1,240614.0,Short Term,,8 years,Own Home,Debt Consolidation,9510.07
+LN-1000712,PQPU80XR6A,49478.0,Short Term,1263576.0,4 years,Rent,Debt Consolidation,18953.64
+LN-1000713,TAB8WSP0NP,99999999.0,Short Term,747156.0,5 years,Home Mortgage,Debt Consolidation,12701.69
+LN-1000714,172342CE5P,329428.0,Short Term,794200.0,< 1 year,Rent,Debt Consolidation,10920.25
+LN-1000715,IV2C7FRKJZ,264352.0,Long Term,,2 years,Rent,Debt Consolidation,16171.09
+LN-1000716,JBJX9FP0TR,260942.0,Short Term,,5 years,Home Mortgage,Debt Consolidation,11112.91
+LN-1000717,9Q1XRQRKS1,527736.0,Short Term,,5 years,Home Mortgage,Home Improvements,23263.41
+LN-1000718,QTFIM9NHQ2,780318.0,Short Term,7677501.0,6 years,Home Mortgage,Buy House,62827.49
+LN-1000719,SMVXI9QX8H,431068.0,Long Term,2699083.0,5 years,Home Mortgage,Home Improvements,4161.0
+LN-1000720,8MP76IPJO8,656634.0,Long Term,,10+ years,Home Mortgage,Debt Consolidation,40433.71
+LN-1000721,F77W6W7HM6,390324.0,Short Term,,6 years,Home Mortgage,Business Loan,20080.34
+LN-1000722,W61CFPWUWL,99999999.0,Short Term,5806362.0,9 years,Rent,Business Loan,28306.01
+LN-1000723,VPYBMT2RQV,209682.0,Short Term,829977.0,10+ years,Home Mortgage,Debt Consolidation,22893.67
+LN-1000724,RCVXLL6GV9,560406.0,ST,,< 1 year,Rent,Buy House,17709.71
+LN-1000725,K95K4PUDYI,224598.0,Short Term,717687.0,8 years,Rent,Debt Consolidation,10346.83
+LN-1000726,HK22HKPGYB,257928.0,Short Term,1522166.0,10+ years,Home Mortgage,Debt Consolidation,18773.33
+LN-1000727,I2CHYYTFRD,351406.0,Short Term,948385.0,4 years,Rent,Debt Consolidation,26317.66
+LN-1000728,4TEAMCHSU4,66220.0,Short Term,1182009.0,5 years,Home Mortgage,Home Improvements,12016.93
+LN-1000729,9H105H18K0,291214.0,Short Term,,1 year,Rent,Debt Consolidation,11369.03
+LN-1000730,C1ZIRXHY72,202466.0,Short Term,1068617.0,5 years,Rent,Debt Consolidation,18745.21
+LN-1000731,BKMTXYVB36,509608.0,Short Term,,4 years,Own Home,Debt Consolidation,23631.44
+LN-1000732,3QA9MXRVNE,67122.0,Short Term,1325687.0,3 years,Home Mortgage,Home Improvements,12704.54
+LN-1000733,GWHZTN1OZ3,,,,,,,
+LN-1000734,FXPWCNWNIQ,21604.0,Short Term,,3 years,Own Home,Educational Expenses,113.62
+LN-1000735,YDS5XC3E0C,304986.0,Long Term,1542724.0,5 years,Rent,Medical Bills,28540.47
+LN-1000736,Z0LN0D46U4,207702.0,Short Term,1121076.0,2 years,Rent,Debt Consolidation,21487.29
+LN-1000737,GSWPJSTJEF,297198.0,Long Term,754908.0,6 years,Rent,Debt Consolidation,9436.35
+LN-1000738,KBF6PC0AN5,107338.0,Short Term,1004207.0,< 1 year,Home Mortgage,Debt Consolidation,9456.3
+LN-1000739,RVHPSEWHXE,216084.0,Short Term,,8 years,Own Home,Debt Consolidation,8040.04
+LN-1000740,1MI3WALU4H,109472.0,Short Term,850896.0,10+ years,Rent,Debt Consolidation,12621.7
+LN-1000741,3G9BQWXW9T,675906.0,Short Term,1478808.0,10+ years,Home Mortgage,Debt Consolidation,16143.73
+LN-1000742,BRXPY4FY8W,65516.0,Short Term,848844.0,2 years,Home Mortgage,other,6281.4
+LN-1000743,UTTZF63RH1,183304.0,Long Term,,5 years,Rent,Debt Consolidation,13150.85
+LN-1000744,DVLMUBJFKF,610632.0,Long Term,,10+ years,Home Mortgage,Debt Consolidation,49723.57
+LN-1000745,3MZIWZH7JW,532950.0,Long Term,1171616.0,2 years,Home Mortgage,Debt Consolidation,23920.62
+LN-1000746,RXGZ3J6KK2,227040.0,Long Term,1345694.0,7 years,Rent,Debt Consolidation,26465.29
+LN-1000747,W3HDT73X38,92708.0,Short Term,439470.0,,Home Mortgage,Debt Consolidation,12085.71
+LN-1000748,UWQCS8UU8R,131560.0,Short Term,1041447.0,5 years,Rent,Debt Consolidation,8236.12
+LN-1000749,NAFYWSL4BP,99999999.0,Long Term,4594542.0,1 year,Home Mortgage,Business Loan,35760.85
+LN-1000750,PA5HFLMINP,77242.0,Short Term,,1 year,Rent,Debt Consolidation,3409.36
+LN-1000751,JA39GJXF8F,305316.0,Long Term,973674.0,9 years,Home Mortgage,Debt Consolidation,14280.78
+LN-1000752,0MEQNQF2LC,295504.0,Short Term,,10+ years,Home Mortgage,Debt Consolidation,14119.09
+LN-1000753,3CYR4GMM0Z,771694.0,Long Term,1523344.0,9 years,Home Mortgage,Debt Consolidation,8975.03
+LN-1000754,HWPNT117OG,351186.0,Long Term,946903.0,10+ years,Home Mortgage,Debt Consolidation,6525.74
+LN-1000755,G1ACG6QDF6,333828.0,Short Term,788044.0,2 years,Rent,Debt Consolidation,13856.32
+LN-1000756,S2ITW5T8QV,173624.0,Short Term,524818.0,4 years,Home Mortgage,Debt Consolidation,2847.15
+LN-1000757,XC7Y2HT981,99999999.0,Short Term,1688625.0,< 1 year,Rent,Home Improvements,15056.93
+LN-1000758,FSB47CA4YC,390962.0,Short Term,2063457.0,10+ years,Home Mortgage,Debt Consolidation,28716.41
+LN-1000759,VBIIFBVSUO,99999999.0,Short Term,2642976.0,10+ years,Home Mortgage,Debt Consolidation,28632.24
+LN-1000760,ZOQ07ZERIV,109120.0,L,848084.0,2 years,Home Mortgage,Debt Consolidation,20353.75
+LN-1000761,UMUJ3QCIIG,266112.0,Short Term,1907543.0,10+ years,Home Mortgage,Debt Consolidation,23685.21
+LN-1000762,PMT95VMMWQ,617342.0,Long Term,1272107.0,10+ years,Home Mortgage,Debt Consolidation,16007.31
+LN-1000763,PWRJ121AQT,267960.0,Short Term,1060675.0,5 years,Rent,Debt Consolidation,23511.74
+LN-1000764,MSUHT18DWD,175472.0,Short Term,1307067.0,10+ years,Home Mortgage,Debt Consolidation,24834.33
+LN-1000765,U4Y3VOG1H2,338536.0,Short Term,585143.0,6 years,Rent,other,16042.65
+LN-1000766,9G11RNDKVV,179366.0,Short Term,2071836.0,1 year,Rent,Debt Consolidation,51623.0
+LN-1000767,6EEC8LPWJQ,143594.0,Short Term,467970.0,10+ years,Own Home,Home Improvements,2378.8
+LN-1000768,I0EMVMNLRI,152196.0,Short Term,,3 years,Rent,other,7908.56
+LN-1000769,AGKIYZLT3A,305844.0,Short Term,662226.0,< 1 year,Rent,Debt Consolidation,12196.1
+LN-1000770,ZLTO4ESQ6T,204754.0,Short Term,864918.0,4 years,Home Mortgage,Debt Consolidation,19172.33
+LN-1000771,45DDMY89WP,330704.0,Short Term,1523097.0,3 years,Own Home,Debt Consolidation,17198.42
+LN-1000772,AGIR7CSETN,99999999.0,Short Term,1492697.0,10+ years,Home Mortgage,Home Improvements,485.26
+LN-1000773,M7Z4BIC1A6,99999999.0,Short Term,952755.0,10+ years,Home Mortgage,Debt Consolidation,7606.27
+LN-1000774,W81AJXJGKD,606892.0,Short Term,3556572.0,4 years,Rent,other,76466.26
+LN-1000775,XTS5EV5XTA,366630.0,Long Term,,8 years,Home Mortgage,Debt Consolidation,19466.64
+LN-1000776,NJVKON00XB,235312.0,Long Term,704406.0,5 years,Own Home,Debt Consolidation,19019.0
+LN-1000777,P3CSMHSZTP,140118.0,Short Term,425942.0,8 years,Own Home,Debt Consolidation,6460.19
+LN-1000778,1RSHBYXUK0,99999999.0,Long Term,478477.0,10+ years,Own Home,Debt Consolidation,7894.69
+LN-1000779,X2QSAXG3OC,342936.0,Short Term,1098732.0,4 years,Home Mortgage,Debt Consolidation,20967.26
+LN-1000780,LQ3CXZD27E,326304.0,Short Term,1784784.0,1 year,Home Mortgage,Debt Consolidation,36469.17
+LN-1000781,XFIZ78GHL0,88308.0,Short Term,,10+ years,Home Mortgage,Debt Consolidation,2497.55
+LN-1000782,2082QT6FD1,455906.0,Long Term,1218698.0,10+ years,Own Home,Home Improvements,28537.81
+LN-1000783,0I1PXAXC4X,244332.0,Short Term,866666.0,1 year,Rent,other,22821.85
+LN-1000784,OVIKS8XY5S,114136.0,Short Term,,10+ years,Home Mortgage,Debt Consolidation,17632.0
+LN-1000785,TR94VWQTN6,450516.0,Short Term,1361787.0,3 years,Home Mortgage,Debt Consolidation,29505.48
+LN-1000786,PIMIQNBMZA,129800.0,Long Term,1401212.0,10+ years,Home Mortgage,Debt Consolidation,14595.8
+LN-1000787,JBKJFPJ73W,748814.0,Long Term,2079873.0,2 years,Home Mortgage,Debt Consolidation,28944.98
+LN-1000788,50LA4GZ7RX,296164.0,Short Term,1213511.0,10+ years,Own Home,Debt Consolidation,13753.15
+LN-1000789,A3V6947CM2,610324.0,Long Term,,4 years,Home Mortgage,Debt Consolidation,14231.57
+LN-1000790,EOL9C9LFDQ,533720.0,Long Term,,7 years,Home Mortgage,Debt Consolidation,29570.08
+LN-1000791,DNL7XD2BL2,460196.0,Short Term,1987229.0,10+ years,Rent,Debt Consolidation,18050.57
+LN-1000792,0HNH7C8GF5,67276.0,Short Term,387296.0,7 years,Rent,Debt Consolidation,5228.42
+LN-1000793,CPB36XIOKH,174328.0,Short Term,,6 years,Rent,Debt Consolidation,12844.38
+LN-1000794,KTFTSFG246,645128.0,Long Term,1586348.0,4 years,Home Mortgage,Debt Consolidation,35693.02
+LN-1000795,UC261SVYYU,218724.0,Short Term,,10+ years,Own Home,Debt Consolidation,15647.07
+LN-1000796,ATZY58HKRY,86768.0,Short Term,,5 years,Home Mortgage,other,34345.54
+LN-1000797,GYYP3DFDLD,89232.0,Short Term,577980.0,5 years,Rent,Debt Consolidation,5828.06
+LN-1000798,FVRFDG69HN,134398.0,Short Term,2205425.0,10+ years,Own Home,Medical Bills,38447.83
+LN-1000799,MBFTNAFWD9,763004.0,Short Term,5648130.0,9 years,Home Mortgage,Debt Consolidation,50833.17
+LN-1000800,PN0XELTSXP,,,,,,,
+LN-1000801,NAW05TMETP,,,,,,,
+LN-1000802,RZCM6K3NZL,170874.0,Short Term,1154440.0,,Home Mortgage,Home Improvements,3203.59
+LN-1000803,LGEP6VWXK8,107888.0,Short Term,790058.0,9 years,Home Mortgage,other,13694.25
+LN-1000804,J9CX1LBOX2,99999999.0,Long Term,1503888.0,7 years,Home Mortgage,Debt Consolidation,8822.84
+LN-1000805,UCIMPSBIH5,665082.0,Long Term,,5 years,Home Mortgage,Debt Consolidation,22248.05
+LN-1000806,VP6E4Y0V7A,99999999.0,Short Term,2556032.0,5 years,Home Mortgage,Debt Consolidation,8094.0
+LN-1000807,PLZ2EP78P0,202752.0,Short Term,1926144.0,4 years,Home Mortgage,Debt Consolidation,16051.2
+LN-1000808,UI5JZ5S0FM,211222.0,Short Term,648812.0,1 year,Home Mortgage,Home Improvements,18166.85
+LN-1000809,MED7H7762K,109472.0,Short Term,,4 years,Home Mortgage,Debt Consolidation,15253.2
+LN-1000810,6KJDTOZ4SO,242682.0,Short Term,1143192.0,10+ years,Home Mortgage,Debt Consolidation,11431.92
+LN-1000811,9QBD1TY19K,610786.0,Long Term,1821910.0,10+ years,Own Home,Debt Consolidation,20800.06
+LN-1000812,FKDJIJLKLE,433884.0,Short Term,2248308.0,7 years,Home Mortgage,other,14464.13
+LN-1000813,N4O5RM758S,108680.0,Short Term,656963.0,2 years,Rent,moving,17573.48
+LN-1000814,G8QCH6IJ9F,97966.0,Short Term,,2 years,Rent,Debt Consolidation,8977.31
+LN-1000815,9LDOPTYKZY,481316.0,Short Term,965827.0,10+ years,Rent,Debt Consolidation,13441.17
+LN-1000816,7R3CDY2TBX,98098.0,Short Term,628311.0,10+ years,Rent,Debt Consolidation,13718.19
+LN-1000817,T4HVQLJ64U,400840.0,Long Term,1192364.0,10+ years,Rent,Debt Consolidation,14407.89
+LN-1000818,5KQC4SW75L,99999999.0,Short Term,2871945.0,1 year,Home Mortgage,Debt Consolidation,15532.5
+LN-1000819,U88PUZ6XE9,236830.0,Long Term,1936252.0,5 years,Rent,Debt Consolidation,17910.35
+LN-1000820,05GUG568DF,443168.0,Long Term,,< 1 year,Rent,Debt Consolidation,30571.0
+LN-1000821,M9U30QVNRC,572506.0,Short Term,3613249.0,6 years,Home Mortgage,Debt Consolidation,43057.99
+LN-1000822,F4TS4DD5DB,618838.0,Short Term,,9 years,Rent,Debt Consolidation,18133.03
+LN-1000823,9JLB8J2583,315106.0,Short Term,1022903.0,3 years,Rent,Debt Consolidation,22248.24
+LN-1000824,9XB854R4LW,386892.0,Long Term,1577855.0,1 year,Home Mortgage,Debt Consolidation,16172.99
+LN-1000825,76GE7GRBPB,176396.0,Short Term,761672.0,4 years,Home Mortgage,Home Improvements,1758.07
+LN-1000826,9YIXX9M6DH,,,,,,,
+LN-1000827,XBNS76QTKI,453090.0,Long Term,,2 years,Rent,Debt Consolidation,28608.3
+LN-1000828,GLCYWRIEB7,448184.0,Short Term,,9 years,Home Mortgage,Debt Consolidation,38967.48
+LN-1000829,7VQ8E88G8C,435820.0,Long Term,1505560.0,2 years,Rent,Debt Consolidation,26723.69
+LN-1000830,MYCHZJ59UZ,136752.0,Short Term,992389.0,7 years,Home Mortgage,Debt Consolidation,25471.4
+LN-1000831,673JGUZMWF,521928.0,Short Term,1756075.0,7 years,Own Home,Debt Consolidation,26780.12
+LN-1000832,OUSDMPOT3C,440000.0,Long Term,1841138.0,10+ years,Rent,Debt Consolidation,56921.91
+LN-1000833,8U4ST0GLHA,584320.0,Long Term,1775588.0,2 years,Home Mortgage,Debt Consolidation,25301.92
+LN-1000834,EYKW1EOW7E,409222.0,Short Term,996322.0,4 years,Own Home,Debt Consolidation,14363.62
+LN-1000835,LWS6M539D4,690844.0,Short Term,1617983.0,10+ years,Home Mortgage,Debt Consolidation,18337.28
+LN-1000836,G0TK1C5513,99999999.0,Short Term,1510120.0,6 years,Rent,Debt Consolidation,16233.79
+LN-1000837,Q32IVO2ACY,54692.0,Short Term,831231.0,7 years,Rent,wedding,5403.03
+LN-1000838,YGD0FSGZIF,218240.0,Long Term,,3 years,Rent,Debt Consolidation,10385.97
+LN-1000839,2Y62JFJL5O,177298.0,Short Term,,4 years,Home Mortgage,Buy a Car,12493.45
+LN-1000840,V2J4WP2333,32868.0,Short Term,624359.0,5 years,Rent,other,8376.91
+LN-1000841,FOL8JZCS7A,265870.0,Long Term,765396.0,1 year,Home Mortgage,Home Improvements,11225.96
+LN-1000842,FQAJCQ2WDL,215490.0,Short Term,707199.0,9 years,Own Home,Home Improvements,14792.26
+LN-1000843,WA50A7LB5M,358028.0,Short Term,1545992.0,10+ years,Home Mortgage,Debt Consolidation,25380.01
+LN-1000844,F1OCNJQ47U,777854.0,Short Term,2879070.0,10+ years,Home Mortgage,Debt Consolidation,65738.86
+LN-1000845,9UHEHX6UYP,457842.0,Short Term,,10+ years,Home Mortgage,Debt Consolidation,21572.79
+LN-1000846,ZK5DWJDUR9,64372.0,Short Term,926440.0,7 years,Home Mortgage,other,20767.57
+LN-1000847,M1SA5IJDAJ,327008.0,Short Term,1506168.0,7 years,Rent,Debt Consolidation,18199.53
+LN-1000848,3H4YSO13YF,606210.0,Long Term,1402352.0,9 years,Rent,Debt Consolidation,14841.47
+LN-1000849,8JZANFGIJR,328790.0,Short Term,1097915.0,6 years,Home Mortgage,Debt Consolidation,15553.97
+LN-1000850,DCJDSYPFX2,351340.0,Long Term,3318692.0,9 years,Home Mortgage,Home Improvements,71904.93
+LN-1000851,Y4GAJ7OJ24,608696.0,Short Term,,10+ years,Rent,moving,20314.61
+LN-1000852,HXNHQPDXES,129976.0,Short Term,673531.0,10+ years,Rent,Debt Consolidation,9541.8
+LN-1000853,1G7PC4MI7V,128876.0,Short Term,735566.0,6 years,Home Mortgage,Debt Consolidation,15998.76
+LN-1000854,JF17BNGAMY,105116.0,Short Term,1475179.0,4 years,Rent,Other,17456.25
+LN-1000855,Q3BV1MF5HZ,66968.0,ST,1156758.0,10+ years,Rent,Other,11567.58
+LN-1000856,NZRZUWT2JD,247104.0,Short Term,721506.0,2 years,Rent,Debt Consolidation,6373.36
+LN-1000857,PQ2QP90CBS,270050.0,Short Term,971755.0,4 years,Home Mortgage,Debt Consolidation,8664.76
+LN-1000858,E1PND0VTUO,579986.0,Long Term,3292909.0,10+ years,Home Mortgage,Debt Consolidation,72443.96
+LN-1000859,NTS21NH14R,99999999.0,Short Term,1665027.0,8 years,Rent,Debt Consolidation,18870.42
+LN-1000860,BLIQXN6BTZ,112420.0,Short Term,,2 years,Home Mortgage,Debt Consolidation,13568.28
+LN-1000861,IVA7ATVIYG,130768.0,Short Term,527060.0,2 years,Rent,Debt Consolidation,6456.39
+LN-1000862,YPDHMHPBXT,245850.0,Short Term,1061625.0,10+ years,Own Home,Debt Consolidation,10527.71
+LN-1000863,A8EQB1XN9K,86108.0,Short Term,,2 years,Rent,other,10658.05
+LN-1000864,0XKVY7TB2V,221914.0,Short Term,,1 year,Rent,Debt Consolidation,11499.18
+LN-1000865,PYCQHHTACS,134376.0,Short Term,1837490.0,10+ years,Home Mortgage,Debt Consolidation,14378.44
+LN-1000866,OC603I3PWT,99999999.0,Short Term,3729453.0,2 years,Home Mortgage,Home Improvements,17963.55
+LN-1000867,VS4CEKMG3V,133628.0,Short Term,1057958.0,7 years,Home Mortgage,Debt Consolidation,15869.37
+LN-1000868,MARC5Y9RO6,405416.0,Short Term,,10+ years,Rent,Debt Consolidation,17774.5
+LN-1000869,VVVQ6AMGVZ,35530.0,Short Term,1290841.0,7 years,Home Mortgage,Buy a Car,957.22
+LN-1000870,FEWMYGX0OH,130130.0,Short Term,590007.0,10+ years,Rent,other,2866.53
+LN-1000871,UOG3N8126X,99999999.0,Long Term,1320424.0,10+ years,Rent,other,20246.59
+LN-1000872,N8TLCA6JJI,168124.0,Short Term,967955.0,1 year,Rent,other,14519.42
+LN-1000873,LYBD9GA15D,,,,,,,
+LN-1000874,7EMTTWIXWB,389950.0,Long Term,2245116.0,6 years,Home Mortgage,Debt Consolidation,14668.0
+LN-1000875,8BZYKXJ6OE,185768.0,Short Term,592059.0,,Home Mortgage,Debt Consolidation,7154.07
+LN-1000876,23PK112VO1,430210.0,Short Term,930069.0,7 years,Home Mortgage,Debt Consolidation,9300.69
+LN-1000877,ZKZ7QYMGE8,529540.0,Short Term,2286612.0,1 year,Rent,Debt Consolidation,25724.48
+LN-1000878,OG51U7DDJH,264110.0,Short Term,1577627.0,10+ years,Rent,Debt Consolidation,20114.73
+LN-1000879,FDLB2HBUZJ,110088.0,Short Term,1344497.0,10+ years,Rent,Debt Consolidation,8492.81
+LN-1000880,22LXBRSVE6,266816.0,Short Term,2016356.0,< 1 year,Rent,Debt Consolidation,16214.79
+LN-1000881,5ZFLI1W5UA,430496.0,Short Term,1580116.0,< 1 year,Rent,Debt Consolidation,33182.36
+LN-1000882,NKXTQLPRX1,217536.0,Short Term,898035.0,6 years,Rent,Debt Consolidation,5545.34
+LN-1000883,6CJJJJDT9Y,480744.0,Short Term,950095.0,7 years,Rent,Debt Consolidation,23514.78
+LN-1000884,7OZAI4F47U,413314.0,Short Term,1127232.0,1 year,Home Mortgage,Debt Consolidation,4133.26
+LN-1000885,RJMH9L2QA5,150546.0,Short Term,1058642.0,8 years,Home Mortgage,Debt Consolidation,9086.56
+LN-1000886,JOKQK35YVW,176374.0,Short Term,723520.0,1 year,Rent,Debt Consolidation,16942.3
+LN-1000887,07MUB1U4IE,43670.0,Long Term,,< 1 year,Rent,Buy a Car,1227.21
+LN-1000888,6XGUBB4XHB,99999999.0,Short Term,707921.0,2 years,Rent,Debt Consolidation,14335.31
+LN-1000889,RR20ID1HBX,33682.0,Short Term,1144978.0,6 years,Rent,other,10686.36
+LN-1000890,OPONYF9FE5,539308.0,Short Term,1358462.0,10+ years,Home Mortgage,Debt Consolidation,22527.73
+LN-1000891,3Q5GQEJ7BW,258566.0,Short Term,1042074.0,2 years,Rent,Debt Consolidation,20754.65
+LN-1000892,F3AX46VV6I,26202.0,Short Term,1225747.0,9 years,Home Mortgage,other,2543.53
+LN-1000893,N3K4RA99DV,176242.0,Short Term,780083.0,10+ years,Rent,Debt Consolidation,16771.87
+LN-1000894,LMAUW2SMX0,786170.0,Short Term,,6 years,Home Mortgage,Debt Consolidation,41586.63
+LN-1000895,IOJY3U0JU8,547250.0,Short Term,1172110.0,10+ years,Home Mortgage,Debt Consolidation,7335.52
+LN-1000896,RIPWSYBXN8,99999999.0,Short Term,592781.0,5 years,Rent,Debt Consolidation,4554.49
+LN-1000897,DXDQH4HDSL,60104.0,Short Term,557612.0,10+ years,Home Mortgage,Debt Consolidation,4019.45
+LN-1000898,SGJTL3EK8N,450692.0,Short Term,1654254.0,2 years,Rent,Debt Consolidation,19023.75
+LN-1000899,V84PK4PWQ9,646272.0,Short Term,2232576.0,5 years,Home Mortgage,Home Improvements,26046.72
+LN-1000900,1AFB7KR1ER,66308.0,Short Term,,1 year,Rent,Other,4335.23
+LN-1000901,D280XHLBI8,344740.0,Short Term,,< 1 year,Home Mortgage,other,1507.84
+LN-1000902,1WY6405VNO,62832.0,Short Term,930145.0,2 years,Home Mortgage,Debt Consolidation,5968.47
+LN-1000903,V6YT1XXYVO,660660.0,Long Term,2035033.0,5 years,Home Mortgage,Debt Consolidation,18654.39
+LN-1000904,WT2ZTF92VT,99999999.0,Short Term,522652.0,,Home Mortgage,Debt Consolidation,14938.94
+LN-1000905,3RLH4FRVDX,195690.0,Short Term,2150040.0,8 years,Home Mortgage,Debt Consolidation,18454.51
+LN-1000906,3YA77UB32L,99999999.0,Short Term,1587393.0,1 year,Rent,Debt Consolidation,22884.93
+LN-1000907,H84OYZ2YFW,416240.0,Long Term,,9 years,Own Home,Debt Consolidation,23989.21
+LN-1000908,VZ917357ET,536360.0,Short Term,,7 years,Home Mortgage,Debt Consolidation,9665.87
+LN-1000909,Y6LS1CSK8M,352110.0,Long Term,,10+ years,Rent,Debt Consolidation,34872.22
+LN-1000910,H1XUHYVZDQ,99999999.0,Short Term,1081062.0,< 1 year,Home Mortgage,Debt Consolidation,13062.69
+LN-1000911,IBVUCSQF1I,223828.0,Short Term,1720431.0,4 years,Rent,Other,7268.83
+LN-1000912,ESEO5CVQ4Z,176748.0,Short Term,1251929.0,9 years,Rent,Debt Consolidation,23786.48
+LN-1000913,QGN8SB9O90,667568.0,Long Term,1520133.0,10+ years,Rent,Debt Consolidation,24575.74
+LN-1000914,WQIDSV6028,99999999.0,Short Term,755060.0,7 years,Rent,Other,15227.17
+LN-1000915,696YCOV9K0,108042.0,Short Term,802370.0,10+ years,Home Mortgage,Other,7756.37
+LN-1000916,O0GR964VAX,228602.0,Long Term,1410180.0,2 years,Rent,Debt Consolidation,14689.47
+LN-1000917,MGDSBQP0P7,450384.0,Long Term,,10+ years,Home Mortgage,Debt Consolidation,31360.64
+LN-1000918,JKOBXF4QQE,239536.0,Short Term,2162713.0,2 years,Home Mortgage,Debt Consolidation,38027.55
+LN-1000919,373QWZQZWL,642730.0,Short Term,1830992.0,10+ years,Home Mortgage,Home Improvements,10238.34
+LN-1000920,52ZL2M8W52,222112.0,Short Term,1592143.0,3 years,Rent,Debt Consolidation,3489.54
+LN-1000921,VL5EKFTS21,,,,,,,
+LN-1000922,SBC4DY2B0F,,,,,,,
+LN-1000923,K1SUQ39ICS,475244.0,Short Term,1772339.0,8 years,Home Mortgage,Debt Consolidation,34412.61
+LN-1000924,AHR0NTFFPU,764610.0,Short Term,2075370.0,7 years,Rent,Debt Consolidation,40642.71
+LN-1000925,E4UQ3VH9LT,396660.0,Short Term,1000350.0,10+ years,Home Mortgage,Debt Consolidation,26175.92
+LN-1000926,IIR2SKP2DB,472032.0,Short Term,,10+ years,Rent,Home Improvements,18344.69
+LN-1000927,XAWMKIBQDK,87010.0,Short Term,732621.0,9 years,Home Mortgage,Debt Consolidation,6050.36
+LN-1000928,NL1S07K2NJ,191576.0,Short Term,700758.0,10+ years,Rent,Debt Consolidation,19154.09
+LN-1000929,27VWM3I0ZU,221474.0,Short Term,956365.0,,Home Mortgage,Home Improvements,9723.06
+LN-1000930,YFVHOOAOEL,433004.0,Short Term,934895.0,2 years,Home Mortgage,Debt Consolidation,18620.0
+LN-1000931,4HMBEXUN31,99814.0,Short Term,862011.0,10+ years,Home Mortgage,Other,7470.8
+LN-1000932,ODPGUTPNLJ,263450.0,Short Term,668800.0,10+ years,Own Home,Debt Consolidation,7914.07
+LN-1000933,X6AZ1SJ0RV,415954.0,Long Term,915458.0,< 1 year,Home Mortgage,Debt Consolidation,16707.08
+LN-1000934,Q70TTR008Y,99999999.0,Short Term,579747.0,< 1 year,Rent,Debt Consolidation,3710.32
+LN-1000935,HVHF4IJQOS,303776.0,Short Term,1457490.0,10+ years,Home Mortgage,Debt Consolidation,18461.54
+LN-1000936,GLK1NK14WM,334004.0,Short Term,,10+ years,Home Mortgage,Debt Consolidation,33796.63
+LN-1000937,SWC58NNX6L,225126.0,Short Term,1788736.0,7 years,Home Mortgage,Buy House,15055.03
+LN-1000938,BFSN6YFNYQ,351076.0,Short Term,,10+ years,Own Home,Debt Consolidation,13830.67
+LN-1000939,F2HNEWHIVX,109120.0,Short Term,1432296.0,6 years,Rent,Debt Consolidation,16590.8
+LN-1000940,BWJZT5AT92,180422.0,Short Term,637127.0,,Home Mortgage,Debt Consolidation,14069.88
+LN-1000941,2Y3TWPH69Z,303358.0,Long Term,729372.0,10+ years,Home Mortgage,Debt Consolidation,10393.38
+LN-1000942,8R582CC5T0,269478.0,Long Term,647292.0,9 years,Home Mortgage,Debt Consolidation,9439.58
+LN-1000943,U6BRUWA4NG,676500.0,Short Term,1752750.0,7 years,Rent,Debt Consolidation,25531.82
+LN-1000944,PA4HSN932F,388718.0,ST,1167702.0,1 year,Rent,Debt Consolidation,23256.76
+LN-1000945,V9NFAEDUPO,290752.0,Long Term,,7 years,Rent,other,7553.45
+LN-1000946,RD8U3XDJX2,395516.0,Long Term,,7 years,Rent,Debt Consolidation,13912.75
+LN-1000947,JH3DC880T0,54230.0,Short Term,693025.0,1 year,Rent,moving,11550.29
+LN-1000948,DOPHJRQI2C,337502.0,Long Term,3400487.0,1 year,Home Mortgage,Other,16945.72
+LN-1000949,VV2561WH67,99999999.0,Short Term,2434147.0,10+ years,Home Mortgage,Debt Consolidation,21501.54
+LN-1000950,SA2O2EUP9P,90024.0,Short Term,,1 year,Rent,Debt Consolidation,20804.05
+LN-1000951,KAGR3XC9I5,430628.0,Short Term,,3 years,Home Mortgage,Debt Consolidation,11365.8
+LN-1000952,44K5J1TZBM,128986.0,Short Term,779798.0,< 1 year,Home Mortgage,Debt Consolidation,8057.9
+LN-1000953,723W48BBNJ,99999999.0,Short Term,856406.0,3 years,Rent,Debt Consolidation,13345.6
+LN-1000954,WBRETBP40L,33330.0,Short Term,,6 years,Home Mortgage,Debt Consolidation,26364.78
+LN-1000955,TGR1MD2OPH,152020.0,Short Term,566694.0,8 years,Rent,Debt Consolidation,2115.65
+LN-1000956,JC608THPFF,332816.0,Short Term,1667060.0,1 year,Rent,Home Improvements,9002.01
+LN-1000957,5B4YSTJYKZ,542916.0,Long Term,1283868.0,6 years,Home Mortgage,Debt Consolidation,28779.87
+LN-1000958,BT5L7P31DN,418550.0,Long Term,1693204.0,4 years,Home Mortgage,Debt Consolidation,29772.05
+LN-1000959,PHH6BGCQVH,189728.0,L,767771.0,,Rent,Debt Consolidation,13743.27
+LN-1000960,VVL4JMKYJ0,150788.0,Short Term,2176545.0,2 years,Home Mortgage,Debt Consolidation,23216.48
+LN-1000961,Y1XEOBVB6W,187154.0,Short Term,798646.0,3 years,Rent,Debt Consolidation,14641.78
+LN-1000962,49LJDJHZV6,220946.0,Short Term,1259396.0,10+ years,Rent,Debt Consolidation,5079.46
+LN-1000963,08QCMP8EG4,187044.0,Short Term,326002.0,< 1 year,Own Home,Debt Consolidation,5297.58
+LN-1000964,EB4LH0UV8F,515724.0,Long Term,1026342.0,< 1 year,Home Mortgage,Debt Consolidation,8809.35
+LN-1000965,RILAQHADPW,110550.0,Short Term,1718550.0,< 1 year,Own Home,other,19190.57
+LN-1000966,OPP7YSW716,723382.0,Short Term,2551016.0,3 years,Home Mortgage,Debt Consolidation,53783.87
+LN-1000967,HEP50IPJZ0,368346.0,Long Term,1105097.0,< 1 year,Home Mortgage,Debt Consolidation,20444.19
+LN-1000968,XKO1662WSH,133320.0,Short Term,1151400.0,< 1 year,Rent,Debt Consolidation,16599.35
+LN-1000969,QZZPP38OPK,440704.0,Short Term,,5 years,Home Mortgage,Business Loan,25247.01
+LN-1000970,K01ICGVYLR,447744.0,Long Term,1527410.0,8 years,Home Mortgage,Debt Consolidation,13364.98
+LN-1000971,BCXNVCWHXN,352484.0,Short Term,848255.0,1 year,Rent,Debt Consolidation,16470.15
+LN-1000972,PWZFKL15U6,,,,,,,
+LN-1000973,0V6N1D0BVD,391996.0,Short Term,,10+ years,Home Mortgage,Debt Consolidation,13406.97
+LN-1000974,P06ZGO0MNY,44088.0,Short Term,799444.0,< 1 year,Rent,Debt Consolidation,666.14
+LN-1000975,I224JQXU3C,144210.0,ST,557688.0,10+ years,Rent,Debt Consolidation,3401.95
+LN-1000976,62RCFBSFPK,323400.0,Short Term,1420155.0,7 years,Home Mortgage,Debt Consolidation,7159.96
+LN-1000977,WUQ9TQNUUY,761222.0,Long Term,1878340.0,< 1 year,Home Mortgage,Debt Consolidation,43827.87
+LN-1000978,ZWNFWOVB9D,99999999.0,Short Term,574332.0,1 year,Rent,Debt Consolidation,6221.93
+LN-1000979,3FPMN4P2A9,99999999.0,Short Term,2524587.0,< 1 year,Rent,Debt Consolidation,35765.03
+LN-1000980,MGIOVFSWZ0,157718.0,Short Term,603193.0,< 1 year,Rent,Debt Consolidation,8696.11
+LN-1000981,6FV0L2TD3B,199738.0,Short Term,2108392.0,1 year,Home Mortgage,Debt Consolidation,32328.69
+LN-1000982,AFL1ZFRSEV,655380.0,Short Term,1264032.0,9 years,Home Mortgage,Debt Consolidation,13377.71
+LN-1000983,LX84W4JDA3,129316.0,Short Term,1580078.0,10+ years,Home Mortgage,other,25939.56
+LN-1000984,XFULP394VM,134992.0,Short Term,,2 years,Home Mortgage,Home Improvements,6249.48
+LN-1000985,TZXRGFR8KB,788480.0,Long Term,,< 1 year,Rent,Debt Consolidation,27287.04
+LN-1000986,GXFEHCQZUN,219450.0,Short Term,909720.0,9 years,Rent,Debt Consolidation,17587.92
+LN-1000987,CW6VR3EARU,210650.0,Short Term,1137036.0,2 years,Rent,Debt Consolidation,18287.31
+LN-1000988,BSQIFRMYKZ,787710.0,Short Term,2176944.0,,Own Home,major_purchase,3229.05
+LN-1000989,9F96AW8TXW,99999999.0,Short Term,1255938.0,5 years,Rent,Debt Consolidation,11094.1
+LN-1000990,QVWNBNE716,349932.0,Short Term,1775455.0,5 years,Home Mortgage,Debt Consolidation,12620.56
+LN-1000991,E8Z0NU6DZV,130240.0,Short Term,,10+ years,Home Mortgage,Home Improvements,9017.4
+LN-1000992,DM6QNIJ6N8,274362.0,Short Term,924673.0,10+ years,Rent,Home Improvements,9554.91
+LN-1000993,CBOPBJJ7KE,386936.0,Short Term,2016337.0,3 years,Home Mortgage,Debt Consolidation,23523.9
+LN-1000994,6W2PGZOBQ7,261206.0,Short Term,1409895.0,< 1 year,Home Mortgage,Business Loan,9422.86
+LN-1000995,OFU5L8S4HG,175890.0,Short Term,3740758.0,2 years,Own Home,Home Improvements,48629.74
+LN-1000996,ZOHNMEI29V,483120.0,Long Term,834480.0,2 years,Home Mortgage,Debt Consolidation,21279.24
+LN-1000997,9770W6J07H,350306.0,Short Term,,6 years,Home Mortgage,Debt Consolidation,21459.55
+LN-1000998,NHR6WNE6B3,214830.0,Short Term,1391522.0,10+ years,Home Mortgage,Home Improvements,22032.21
+LN-1000999,27YTERMRX5,152394.0,Short Term,1052828.0,10+ years,Rent,Debt Consolidation,24478.27
+LN-1001000,JPBENF2TIP,59378.0,Short Term,1312026.0,7 years,Rent,Debt Consolidation,14432.4
+LN-1001001,W3JDTBUEIS,172018.0,Short Term,1188526.0,10+ years,Home Mortgage,Debt Consolidation,16381.61
+LN-1001002,AKRGYPXD3D,224180.0,Short Term,1878017.0,8 years,Home Mortgage,Home Improvements,24101.12
+LN-1001003,93ZW2NHBYK,400356.0,Short Term,1507916.0,6 years,Home Mortgage,Debt Consolidation,9738.64
+LN-1001004,2AB8UXMQY8,233596.0,Short Term,583338.0,10+ years,Rent,Debt Consolidation,12736.27
+LN-1001005,4T5HQGREAP,99999999.0,Short Term,1743345.0,5 years,Home Mortgage,Debt Consolidation,31089.7
+LN-1001006,ASFP0N0JX5,99999999.0,Short Term,828685.0,9 years,Home Mortgage,Debt Consolidation,10096.03
+LN-1001007,F3KIKQB2BO,347996.0,Long Term,1108213.0,10+ years,Home Mortgage,Debt Consolidation,10343.41
+LN-1001008,R3UDCNC0H0,222772.0,Short Term,634904.0,5 years,Rent,Debt Consolidation,3386.18
+LN-1001009,KOVRT138MM,538362.0,Long Term,1112032.0,10+ years,Home Mortgage,Debt Consolidation,20479.91
+LN-1001010,O39I08ZPZY,210892.0,Short Term,739898.0,< 1 year,Rent,Other,7645.6
+LN-1001011,ZJUFPXG1IY,525404.0,Short Term,,5 years,Home Mortgage,Debt Consolidation,21360.37
+LN-1001012,1X6DEN7C3E,133364.0,Short Term,,10+ years,Home Mortgage,Home Improvements,16068.3
+LN-1001013,LOHE868BQT,358050.0,Long Term,1932680.0,10+ years,Home Mortgage,Debt Consolidation,3221.26
+LN-1001014,V4C5E0SLWG,690866.0,Long Term,1334389.0,10+ years,Home Mortgage,Debt Consolidation,28466.94
+LN-1001015,6GMA075U72,128964.0,Short Term,1273380.0,6 years,Rent,Debt Consolidation,16341.71
+LN-1001016,K5ADRRVGVM,479402.0,Long Term,1091531.0,10+ years,Home Mortgage,Debt Consolidation,9641.74
+LN-1001017,Y5D3FH79DG,110242.0,Short Term,685501.0,2 years,Rent,Debt Consolidation,6398.06
+LN-1001018,TE531HF5P3,99999999.0,Long Term,1129284.0,10+ years,Home Mortgage,Debt Consolidation,24467.82
+LN-1001019,ND342YHKQT,247588.0,Short Term,,10+ years,Home Mortgage,Debt Consolidation,26681.51
+LN-1001020,491CSSUOTG,221210.0,Short Term,,10+ years,Home Mortgage,Debt Consolidation,36441.81
+LN-1001021,EEEQKIOROV,108482.0,Short Term,562077.0,1 year,Rent,Debt Consolidation,2248.27
+LN-1001022,2XG605ZJQC,99999999.0,Short Term,1358329.0,10+ years,Home Mortgage,Debt Consolidation,24449.96
+LN-1001023,F7GVU4U5VF,575674.0,Short Term,,10+ years,Own Home,Debt Consolidation,21833.09
+LN-1001024,ZINKD7UCIY,300454.0,Short Term,1729836.0,10+ years,Home Mortgage,Debt Consolidation,9816.73
+LN-1001025,Y4OP0LL2SG,392700.0,Long Term,1554808.0,10+ years,Home Mortgage,Debt Consolidation,22544.64
+LN-1001026,SCUXEWBBE7,319572.0,Long Term,785878.0,8 years,Rent,Debt Consolidation,15324.45
+LN-1001027,BISNMPGJQ4,782628.0,Short Term,1448370.0,10+ years,Home Mortgage,Debt Consolidation,31260.7
+LN-1001028,V20W4W6S4G,342738.0,Short Term,1156986.0,10+ years,Rent,Debt Consolidation,27767.74
+LN-1001029,VLLUUA8UUT,441056.0,Long Term,,1 year,Home Mortgage,Home Improvements,22530.96
+LN-1001030,T2G42OT8T1,619564.0,Long Term,1218204.0,10+ years,Rent,Debt Consolidation,5157.17
+LN-1001031,0SG0WD7O7Y,271326.0,Short Term,1377861.0,2 years,Own Home,Debt Consolidation,22390.36
+LN-1001032,IEQTETRWMF,346148.0,Long Term,866039.0,5 years,Rent,Debt Consolidation,23454.93
+LN-1001033,OZFVCS4TNO,328042.0,Short Term,738340.0,4 years,Rent,Debt Consolidation,17105.13
+LN-1001034,XR9KKDGOY6,145904.0,Short Term,468407.0,2 years,Rent,Debt Consolidation,8352.97
+LN-1001035,09VOL7EEK3,283338.0,Long Term,,10+ years,Rent,Debt Consolidation,10594.02
+LN-1001036,WE6FMVZKNQ,337370.0,Short Term,1165422.0,2 years,Own Home,Debt Consolidation,20880.43
+LN-1001037,BAONNRNE2Q,149600.0,Short Term,634315.0,7 years,Home Mortgage,Debt Consolidation,6607.44
+LN-1001038,I21IUMPDF1,611314.0,Short Term,2074116.0,10+ years,Home Mortgage,Debt Consolidation,42000.83
+LN-1001039,82A7E1AVSG,280962.0,Short Term,2132085.0,10+ years,Home Mortgage,Debt Consolidation,23808.14
+LN-1001040,RGAWI09U48,301400.0,Short Term,,3 years,Home Mortgage,Debt Consolidation,48122.82
+LN-1001041,EZ3JXWOH27,335896.0,Short Term,1042625.0,10+ years,Home Mortgage,Debt Consolidation,24240.96
+LN-1001042,5YMWDEX63H,224070.0,Short Term,635721.0,3 years,Rent,Debt Consolidation,13297.34
+LN-1001043,27K1B8P74E,214214.0,Short Term,2119887.0,< 1 year,Home Mortgage,Debt Consolidation,55470.31
+LN-1001044,6BZ2O7XIRA,308990.0,Long Term,,10+ years,Home Mortgage,Home Improvements,14581.55
+LN-1001045,GBQCB4F7PO,254276.0,Short Term,649230.0,10+ years,Home Mortgage,Debt Consolidation,14391.36
+LN-1001046,5RKF77657J,406670.0,LT,,10+ years,Home Mortgage,Debt Consolidation,28445.47
+LN-1001047,J7H5VJX9A9,332046.0,Short Term,,2 years,Home Mortgage,Debt Consolidation,35788.59
+LN-1001048,7I70Z3OLOW,99999999.0,Short Term,613282.0,6 years,Rent,other,9506.08
+LN-1001049,53XD2L3Q9B,99999999.0,Long Term,1346093.0,< 1 year,Rent,other,22659.21
+LN-1001050,MXW9IE64UD,365376.0,Short Term,,5 years,Home Mortgage,other,30188.91
+LN-1001051,I1KWYE72C3,86438.0,Short Term,3334671.0,10+ years,Rent,Debt Consolidation,33624.49
+LN-1001052,U5XZSJ03QP,493614.0,Short Term,4310910.0,5 years,Rent,Debt Consolidation,81548.0
+LN-1001053,HXXE8F7Q14,541706.0,Short Term,1403492.0,< 1 year,Rent,Debt Consolidation,40233.26
+LN-1001054,EJSQ1TWN94,53724.0,Short Term,811965.0,1 year,Rent,other,13871.14
+LN-1001055,GQ90012O2S,760760.0,Short Term,1689480.0,4 years,Rent,Buy a Car,11094.29
+LN-1001056,VI1G28OOF3,158202.0,Short Term,948765.0,3 years,Rent,Debt Consolidation,25537.52
+LN-1001057,A2B2EIPAB1,310002.0,Short Term,1243037.0,3 years,Home Mortgage,Debt Consolidation,15434.27
+LN-1001058,GACHIBFBCI,39490.0,Short Term,568461.0,5 years,Own Home,Debt Consolidation,14211.62
+LN-1001059,PLE413CEWJ,520146.0,Short Term,898814.0,,Rent,Debt Consolidation,13631.93
+LN-1001060,5V09N6UMDG,751146.0,Long Term,1668105.0,4 years,Home Mortgage,Debt Consolidation,42258.66
+LN-1001061,904BW5C8DR,226820.0,Short Term,2006780.0,< 1 year,Rent,Debt Consolidation,22074.39
+LN-1001062,6BIWQ8J0MF,258764.0,Long Term,1899620.0,1 year,Home Mortgage,Debt Consolidation,28336.03
+LN-1001063,EARPOONHV8,99999999.0,Short Term,3015072.0,10+ years,Home Mortgage,Debt Consolidation,23869.32
+LN-1001064,W8R2BPK7KH,99999999.0,Short Term,1906688.0,10+ years,Rent,Debt Consolidation,15317.04
+LN-1001065,BRFZD2A10Y,291368.0,Short Term,813010.0,< 1 year,Own Home,Debt Consolidation,9823.76
+LN-1001066,GSZH9X7XQ8,270600.0,Short Term,779000.0,1 year,Rent,Debt Consolidation,10581.29
+LN-1001067,70XUSEGD98,378400.0,Long Term,1361654.0,10+ years,Home Mortgage,Debt Consolidation,17406.47
+LN-1001068,HAP4UUJZ5U,387112.0,Short Term,793288.0,10+ years,Home Mortgage,Debt Consolidation,24724.32
+LN-1001069,HQP2PNPCU0,106018.0,Short Term,352906.0,1 year,Own Home,Buy House,7587.46
+LN-1001070,XJSL38AICO,65846.0,Short Term,947720.0,8 years,Home Mortgage,Medical Bills,17295.89
+LN-1001071,X3WK2G059X,430320.0,Long Term,1576088.0,3 years,Home Mortgage,Debt Consolidation,16023.65
+LN-1001072,N324YTHP7Q,,,,,,,
+LN-1001073,YC89ZT339X,99999999.0,Short Term,2328925.0,10+ years,Home Mortgage,Debt Consolidation,40561.96
+LN-1001074,5GUZF9R2Q0,781176.0,Short Term,2120305.0,6 years,Home Mortgage,Business Loan,2880.21
+LN-1001075,AT5HUESAC9,152306.0,Short Term,1014714.0,7 years,Rent,Medical Bills,19871.53
+LN-1001076,9NWZIWBV2A,267872.0,Short Term,963965.0,8 years,Own Home,Debt Consolidation,13495.51
+LN-1001077,AXIA5FUDN7,110330.0,Short Term,952755.0,3 years,Home Mortgage,Debt Consolidation,7534.83
+LN-1001078,C29LOBP35Q,32670.0,Short Term,,3 years,Rent,other,1354.13
+LN-1001079,S0DRCHBTPJ,436524.0,Long Term,,8 years,Rent,Debt Consolidation,19467.21
+LN-1001080,YI5JWAJAHN,44132.0,Short Term,163894.0,,Rent,Debt Consolidation,1789.04
+LN-1001081,K7XVIM9RY4,218416.0,Short Term,677179.0,2 years,Rent,Debt Consolidation,14897.71
+LN-1001082,OAKTKZNP37,239756.0,Short Term,959994.0,8 years,Home Mortgage,Debt Consolidation,11439.9
+LN-1001083,F83S5PUL3I,754226.0,Short Term,2047155.0,2 years,Rent,Debt Consolidation,16837.8
+LN-1001084,P6WQS28HZR,184448.0,Short Term,,< 1 year,Rent,Debt Consolidation,2086.01
+LN-1001085,CZGM5KB9WF,144188.0,Short Term,739404.0,3 years,Rent,Debt Consolidation,11583.92
+LN-1001086,B1ZSVU9P62,211508.0,Short Term,1236862.0,10+ years,Rent,Debt Consolidation,27004.7
+LN-1001087,DMS5AKCEF1,99999999.0,Short Term,625138.0,7 years,Rent,Debt Consolidation,14221.69
+LN-1001088,GMKJZA3I6H,190498.0,Short Term,774212.0,< 1 year,Own Home,other,948.48
+LN-1001089,OSNHI1FCDA,293436.0,Short Term,1357531.0,10+ years,Rent,Debt Consolidation,21946.9
+LN-1001090,PCF2Q2LREB,553190.0,Long Term,1547930.0,4 years,Home Mortgage,Debt Consolidation,11983.68
+LN-1001091,9ZV9NQFHO8,435688.0,Long Term,2257656.0,6 years,Home Mortgage,Debt Consolidation,9482.14
+LN-1001092,4JAX9F2PX5,539154.0,Long Term,1058889.0,10+ years,Rent,Debt Consolidation,3670.8
+LN-1001093,QSJ4CHUODV,259006.0,Short Term,1714959.0,5 years,Home Mortgage,Debt Consolidation,19293.36
+LN-1001094,6VD0964C4K,183238.0,Short Term,1689366.0,8 years,Home Mortgage,Debt Consolidation,23932.78
+LN-1001095,A3A5JZS29W,150172.0,Short Term,1389660.0,5 years,Rent,Debt Consolidation,20960.8
+LN-1001096,BOTCOP8WXO,129118.0,Short Term,,10+ years,Rent,Debt Consolidation,7923.57
+LN-1001097,JZ28PWFA9X,214720.0,Short Term,1085983.0,6 years,Rent,Debt Consolidation,22986.39
+LN-1001098,FJSY14V4C7,518078.0,Short Term,2703206.0,3 years,Home Mortgage,Buy House,33564.83
+LN-1001099,GAVHEDQ759,178046.0,Short Term,904305.0,,Home Mortgage,Debt Consolidation,9721.35
+LN-1001100,BCQKS3PXV1,30536.0,Short Term,649800.0,2 years,Rent,Buy House,5848.2
+LN-1001101,H4IHJDXGYC,752136.0,Short Term,3247860.0,10+ years,Home Mortgage,Business Loan,15779.31
+LN-1001102,XCZRQF1L4I,261998.0,Short Term,,5 years,Rent,Debt Consolidation,9663.4
+LN-1001103,6OMDM2ZM5Z,445764.0,Short Term,,10+ years,Own Home,Debt Consolidation,32899.64
+LN-1001104,RYWN8BMLQQ,145310.0,Short Term,,2 years,Rent,Debt Consolidation,2405.02
+LN-1001105,UYV0ZZJBSX,622908.0,Long Term,1254057.0,2 years,Home Mortgage,Debt Consolidation,16407.26
+LN-1001106,9X5ZBI4598,,,,,,,
+LN-1001107,GE6RUBPF7V,199496.0,Short Term,1033695.0,2 years,Rent,Debt Consolidation,23688.82
+LN-1001108,A0MVPJGAHC,334818.0,Short Term,579291.0,4 years,Rent,Debt Consolidation,10668.69
+LN-1001109,SPYHG6G4DV,131692.0,Short Term,663404.0,1 year,Home Mortgage,Debt Consolidation,12283.88
+LN-1001110,PFHOL1Y6IH,260854.0,Long Term,,4 years,Home Mortgage,Debt Consolidation,20533.87
+LN-1001111,1E7WE3NTII,99999999.0,Long Term,1900190.0,10+ years,Rent,Debt Consolidation,37528.8
+LN-1001112,FYDF3XUJVW,306636.0,Long Term,977987.0,1 year,Home Mortgage,Debt Consolidation,25590.53
+LN-1001113,MQRE9JJG49,224422.0,Short Term,1492412.0,10+ years,Home Mortgage,Debt Consolidation,27236.5
+LN-1001114,2PWD36CYIN,343860.0,Short Term,761007.0,1 year,Rent,Debt Consolidation,17566.64
+LN-1001115,WZNZ6VPQG8,343068.0,Long Term,673379.0,9 years,Rent,Debt Consolidation,7687.59
+LN-1001116,V2VQC3019Q,99999999.0,Long Term,2996528.0,2 years,Rent,Buy a Car,33461.28
+LN-1001117,6EHYVOL922,,,,,,,
+LN-1001118,OW6B78GX27,518276.0,Long Term,1305528.0,6 years,Home Mortgage,Debt Consolidation,20888.41
+LN-1001119,PNWUOSZPEH,178112.0,Short Term,1153680.0,,Own Home,Debt Consolidation,34418.12
+LN-1001120,ABFMQ1NUTM,144782.0,Short Term,981350.0,8 years,Rent,Debt Consolidation,11285.43
+LN-1001121,06HJQPIW45,110594.0,Short Term,859541.0,2 years,Rent,Debt Consolidation,14898.47
+LN-1001122,NA9WAXGOJA,103884.0,Short Term,934515.0,10+ years,Home Mortgage,Other,26088.52
+LN-1001123,0VDOES9F68,264154.0,ST,1159703.0,10+ years,Home Mortgage,Debt Consolidation,16429.11
+LN-1001124,2ZDPJ9XNRT,321794.0,Long Term,965808.0,10+ years,Own Home,Debt Consolidation,12152.97
+LN-1001125,VU3FFA1RUI,551166.0,Long Term,,5 years,Home Mortgage,Debt Consolidation,45227.79
+LN-1001126,951S8JYKBW,210430.0,Short Term,,10+ years,Rent,Debt Consolidation,23790.85
+LN-1001127,WK7RJFZ3WL,471130.0,Short Term,2234628.0,4 years,Rent,Debt Consolidation,48975.54
+LN-1001128,MYL46YQU4J,219428.0,Short Term,1301671.0,,Rent,Debt Consolidation,22237.03
+LN-1001129,QGVVOW7NRI,537768.0,Short Term,2418947.0,10+ years,Rent,Business Loan,11026.27
+LN-1001130,0T99O86JYM,,,,,,,
+LN-1001131,5JXWMN5USK,329318.0,Short Term,1801219.0,6 years,Rent,Debt Consolidation,10942.48
+LN-1001132,BI09A09W11,621148.0,Long Term,1611504.0,10+ years,Rent,Debt Consolidation,25381.15
+LN-1001133,A4XU5334AK,110946.0,Short Term,1916340.0,4 years,Rent,Debt Consolidation,18524.62
+LN-1001134,K03I39KLLJ,120362.0,Short Term,1512020.0,9 years,Home Mortgage,Debt Consolidation,8404.27
+LN-1001135,ONRKP2W8T7,26664.0,Short Term,1403397.0,6 years,Home Mortgage,other,29939.06
+LN-1001136,H2SIRK6GY4,109318.0,Short Term,,4 years,Rent,Debt Consolidation,4641.89
+LN-1001137,RIY2D7OBKS,168542.0,Short Term,2328792.0,2 years,Rent,Debt Consolidation,24918.12
+LN-1001138,BZH0TQS2ON,89122.0,Long Term,962160.0,4 years,Rent,Debt Consolidation,4922.9
+LN-1001139,575ZXJ38A9,99999999.0,Short Term,1041333.0,9 years,Rent,Debt Consolidation,31847.61
+LN-1001140,QC6K7MCR6N,560692.0,Long Term,1076388.0,10+ years,Rent,Debt Consolidation,9238.94
+LN-1001141,YT8EWTOJJ5,655248.0,Long Term,1274919.0,5 years,Rent,Other,25881.04
+LN-1001142,HYADN8VMM6,144034.0,Short Term,469452.0,3 years,Rent,Debt Consolidation,7198.15
+LN-1001143,XQ3YW1PJSN,283074.0,Long Term,1435811.0,1 year,Own Home,Debt Consolidation,5276.68
+LN-1001144,SYSL10NV3S,215094.0,Short Term,1764758.0,10+ years,Home Mortgage,other,42795.22
+LN-1001145,HRBYB2XSMD,49456.0,Short Term,,,Home Mortgage,Debt Consolidation,2641.19
+LN-1001146,9COGCV5PBK,183634.0,Short Term,1418008.0,10+ years,Home Mortgage,Debt Consolidation,9500.57
+LN-1001147,LKUBJ4IHRZ,99999999.0,Short Term,1098276.0,1 year,Rent,Debt Consolidation,10982.76
+LN-1001148,UJZ3B3VTZ9,464464.0,Short Term,1002820.0,10+ years,Home Mortgage,Debt Consolidation,24234.69
+LN-1001149,7RM8JVKQ60,432696.0,Long Term,1569514.0,10+ years,Home Mortgage,Debt Consolidation,39891.64
+LN-1001150,1F3DSEJ3J9,109252.0,Short Term,,1 year,Rent,Debt Consolidation,13522.68
+LN-1001151,D98G131NVR,436040.0,Short Term,979108.0,9 years,Home Mortgage,Debt Consolidation,10851.66
+LN-1001152,KYM2VBHA3Z,216678.0,Short Term,,10+ years,Home Mortgage,Debt Consolidation,4079.11
+LN-1001153,XPSB758DZR,528528.0,Long Term,1445444.0,9 years,Home Mortgage,Debt Consolidation,21802.12
+LN-1001154,NTZAD3ELW7,107360.0,Short Term,,,Own Home,Debt Consolidation,15729.91
+LN-1001155,QXV7QJCODS,59532.0,Short Term,803928.0,2 years,Rent,Debt Consolidation,11791.02
+LN-1001156,ZG3XFBO7JY,267718.0,Short Term,1387285.0,10+ years,Home Mortgage,Debt Consolidation,16184.96
+LN-1001157,4IK96KIG9W,99999999.0,Short Term,1276078.0,< 1 year,Rent,Debt Consolidation,17333.32
+LN-1001158,9G073HI8XF,30954.0,Short Term,,,Rent,Debt Consolidation,3052.73
+LN-1001159,BXZE9J8IFU,185416.0,Short Term,,2 years,Rent,Debt Consolidation,19117.61
+LN-1001160,UKFMOYZTQ2,178310.0,Short Term,1308929.0,5 years,Rent,Debt Consolidation,20288.39
+LN-1001161,WVSRN5EEQO,174416.0,Short Term,470725.0,4 years,Rent,Debt Consolidation,11532.81
+LN-1001162,ZEFGHXS5MO,99999999.0,Short Term,223706.0,4 years,Rent,Debt Consolidation,3616.65
+LN-1001163,6NU5CMAJLF,99999999.0,Short Term,2210612.0,6 years,Home Mortgage,Debt Consolidation,34080.3
+LN-1001164,DZVEJEUAH3,412676.0,Long Term,1311760.0,8 years,Rent,Debt Consolidation,20113.78
+LN-1001165,8GDL5XWWDY,,,,,,,
+LN-1001166,NS9J8GANE7,673860.0,Long Term,,1 year,Home Mortgage,Debt Consolidation,41222.97
+LN-1001167,KOXIHJRAEI,99999999.0,Short Term,932862.0,6 years,Rent,Debt Consolidation,12749.19
+LN-1001168,RUUF5WQYNS,252428.0,Short Term,764940.0,3 years,Rent,Debt Consolidation,16000.09
+LN-1001169,8ZXQCW1225,99999999.0,Short Term,609938.0,10+ years,Own Home,Debt Consolidation,9352.56
+LN-1001170,9RDQN8ND5C,99999999.0,Short Term,715160.0,5 years,Rent,Debt Consolidation,10667.74
+LN-1001171,YBD61UBJ09,219208.0,Short Term,984447.0,4 years,Home Mortgage,Home Improvements,14848.69
+LN-1001172,Y9UEP0AS7D,99999999.0,Short Term,8526364.0,10+ years,Own Home,Home Improvements,55918.71
+LN-1001173,QHX7IZZ2QA,324060.0,Short Term,855152.0,10+ years,Home Mortgage,Debt Consolidation,17530.54
+LN-1001174,7DFQZCZKT1,230120.0,Short Term,954845.0,4 years,Rent,Debt Consolidation,24189.28
+LN-1001175,8LDYF0N94F,236346.0,Short Term,1298878.0,10+ years,Home Mortgage,Debt Consolidation,22080.85
+LN-1001176,I87CQGHB1N,65186.0,Short Term,1431726.0,10+ years,Home Mortgage,Home Improvements,29254.87
+LN-1001177,N5ILZ6GHUD,261646.0,Short Term,1732439.0,< 1 year,Home Mortgage,Debt Consolidation,11260.92
+LN-1001178,V5R3C6MRZB,777326.0,Long Term,1879689.0,3 years,Own Home,Business Loan,14880.8
+LN-1001179,IAEJFJFTUW,445500.0,Short Term,,10+ years,Home Mortgage,Debt Consolidation,15655.81
+LN-1001180,GPYNPZBZFD,298452.0,Short Term,678357.0,1 year,Own Home,Debt Consolidation,9327.48
+LN-1001181,N85UJ0Z1VB,68068.0,Short Term,853290.0,6 years,HaveMortgage,Take a Trip,18132.46
+LN-1001182,4R8KE4BVAE,540826.0,Long Term,1774866.0,10+ years,Own Home,Debt Consolidation,16269.51
+LN-1001183,9WBVB0L516,129404.0,Short Term,777404.0,< 1 year,Home Mortgage,Debt Consolidation,11531.48
+LN-1001184,V40C0MC8XS,264242.0,Short Term,387942.0,4 years,Rent,Debt Consolidation,2967.8
+LN-1001185,RBI1O9PLE1,486640.0,Long Term,913957.0,9 years,Rent,Debt Consolidation,16679.72
+LN-1001186,SX7KYH17TJ,141922.0,Short Term,1011712.0,3 years,Own Home,Debt Consolidation,18042.21
+LN-1001187,MF7R2PM6LF,431376.0,Short Term,829977.0,,Home Mortgage,Debt Consolidation,13556.5
+LN-1001188,ZDRCON0A5P,313588.0,Long Term,,6 years,Home Mortgage,other,32359.28
+LN-1001189,W87ODB0HC3,99999999.0,Short Term,1410047.0,10+ years,Home Mortgage,Debt Consolidation,28670.81
+LN-1001190,IB2JJLGX75,99999999.0,Short Term,1497656.0,10+ years,Rent,Debt Consolidation,21591.22
+LN-1001191,48GIQSORTD,446952.0,Short Term,1640517.0,< 1 year,Rent,Debt Consolidation,25291.28
+LN-1001192,KQSEZ2DZ32,326766.0,Long Term,1708290.0,3 years,Rent,Debt Consolidation,28329.19
+LN-1001193,RQ40R0YI89,99999999.0,Short Term,2501863.0,10+ years,Home Mortgage,Home Improvements,23142.19
+LN-1001194,CCV9UDMK21,159434.0,Short Term,1070916.0,3 years,Rent,Debt Consolidation,10530.75
+LN-1001195,RX10G9Q895,246026.0,Short Term,887433.0,,Home Mortgage,Debt Consolidation,9169.97
+LN-1001196,46BF7PM3VZ,786170.0,Short Term,6750852.0,2 years,Own Home,Business Loan,1518.86
+LN-1001197,YE3VPVKI6T,241450.0,Short Term,1183415.0,10+ years,Own Home,Debt Consolidation,29289.64
+LN-1001198,OOFY8J29KQ,272206.0,Short Term,799786.0,,Home Mortgage,Debt Consolidation,15729.15
+LN-1001199,L1QS15B10A,,,,,,,
+LN-1001200,MRMMDWIT76,337788.0,Long Term,967252.0,6 years,Home Mortgage,Debt Consolidation,13219.25
+LN-1001201,DCE4JKT4CL,386584.0,Short Term,1372541.0,7 years,Rent,Debt Consolidation,16813.67
+LN-1001202,1FK6GIGIH3,779086.0,Short Term,1153452.0,5 years,Home Mortgage,Debt Consolidation,6747.66
+LN-1001203,4C96RNKB9L,99999999.0,Short Term,1002630.0,9 years,Rent,Other,14203.83
+LN-1001204,05JH8JG12X,441078.0,Long Term,851751.0,6 years,Home Mortgage,Debt Consolidation,15615.53
+LN-1001205,ML8EHT0CUJ,,,,,,,
+LN-1001206,0RB3RTA4H0,334620.0,Short Term,963300.0,10+ years,Home Mortgage,Debt Consolidation,16536.65
+LN-1001207,4QYZCPE8UJ,668514.0,Long Term,3367902.0,10+ years,Home Mortgage,other,24529.38
+LN-1001208,X90C2H8C5L,325886.0,Short Term,719207.0,3 years,Own Home,Debt Consolidation,11087.64
+LN-1001209,N4E2A6U37C,264066.0,Short Term,655633.0,< 1 year,Rent,Debt Consolidation,7594.3
+LN-1001210,D9QG2LYO52,195712.0,Short Term,,10+ years,Rent,Debt Consolidation,18169.89
+LN-1001211,DVTNMHBM3J,374594.0,Long Term,,10+ years,Home Mortgage,Debt Consolidation,19288.61
+LN-1001212,G1PHL3M6M9,,,,,,,
+LN-1001213,F96RQWK6JQ,446556.0,Short Term,,8 years,Rent,Debt Consolidation,9598.23
+LN-1001214,0E7LMZ7ECN,620378.0,Short Term,2487537.0,8 years,Home Mortgage,Debt Consolidation,18366.16
+LN-1001215,8P8NMUFA5S,,,,,,,
+LN-1001216,I7Y0GCHR4L,407088.0,Long Term,890777.0,7 years,Rent,Debt Consolidation,24125.06
+LN-1001217,1QH7DHKW1Y,403216.0,Short Term,2070563.0,10+ years,Home Mortgage,Debt Consolidation,15753.66
+LN-1001218,9Q3XCS9G2K,162228.0,Short Term,676153.0,3 years,Rent,Debt Consolidation,9973.29
+LN-1001219,GMO9UQ63P0,322124.0,Short Term,1335301.0,10+ years,Home Mortgage,Buy a Car,20585.93
+LN-1001220,NRI7MQJWRP,680350.0,Long Term,,3 years,Home Mortgage,Home Improvements,8689.27
+LN-1001221,2DL1OEQ57O,327294.0,Short Term,1507536.0,8 years,Home Mortgage,Debt Consolidation,14572.81
+LN-1001222,2KLEHPBQL3,441936.0,Long Term,,7 years,Home Mortgage,Debt Consolidation,53742.64
+LN-1001223,NCJYMLCE1M,197384.0,Short Term,3409398.0,4 years,Home Mortgage,Debt Consolidation,10569.13
+LN-1001224,YBKB7IBL0W,328394.0,Short Term,,< 1 year,Home Mortgage,Debt Consolidation,6963.88
+LN-1001225,BLINX01YOS,218570.0,Long Term,,5 years,Home Mortgage,Home Improvements,6570.77
+LN-1001226,930KY7L4KD,44682.0,Short Term,1350349.0,10+ years,Home Mortgage,Debt Consolidation,11140.46
+LN-1001227,YQGJX378SX,431486.0,Long Term,847951.0,6 years,Home Mortgage,Debt Consolidation,16393.58
+LN-1001228,EZJ343UDQE,67430.0,Short Term,660022.0,1 year,Rent,Debt Consolidation,9735.22
+LN-1001229,DE8565V1ZV,411048.0,Short Term,,4 years,Own Home,Debt Consolidation,55824.28
+LN-1001230,KWML51Y8NP,665764.0,Short Term,1309822.0,2 years,Home Mortgage,Debt Consolidation,21721.37
+LN-1001231,ZBMGWOHLTL,347292.0,Short Term,850041.0,2 years,Home Mortgage,Other,18842.68
+LN-1001232,AGY2MJIGDB,374264.0,Long Term,1806273.0,7 years,Home Mortgage,Debt Consolidation,24535.08
+LN-1001233,TTU1BXBU9G,79992.0,Short Term,1458440.0,3 years,Home Mortgage,Debt Consolidation,13332.68
+LN-1001234,RVVRXLHGVO,99999999.0,Short Term,485507.0,10+ years,Rent,Debt Consolidation,7484.86
+LN-1001235,YRY7S9XVGS,174724.0,Short Term,,4 years,Home Mortgage,Other,20781.06
+LN-1001236,YGUSFIBLNY,411466.0,Short Term,,10+ years,Home Mortgage,Debt Consolidation,23227.88
+LN-1001237,OFA11ONZKG,174328.0,Short Term,4046202.0,< 1 year,Home Mortgage,Debt Consolidation,63727.52
+LN-1001238,AM2B0VH4MU,313038.0,Long Term,1408052.0,10+ years,Home Mortgage,Debt Consolidation,21707.31
+LN-1001239,V92QGOCG7W,261668.0,Short Term,1318296.0,6 years,Home Mortgage,Debt Consolidation,21861.59
+LN-1001240,57E7VZ3O0W,441672.0,Short Term,1621061.0,8 years,Rent,other,17021.15
+LN-1001241,G3F60A3BGI,88924.0,Short Term,537586.0,9 years,Home Mortgage,Debt Consolidation,2495.27
+LN-1001242,CVW6YP4O4X,220968.0,Long Term,458014.0,1 year,Rent,Debt Consolidation,10572.36
+LN-1001243,GZ4UH1W57G,344146.0,Long Term,1021706.0,5 years,Home Mortgage,other,26308.73
+LN-1001244,5C9OVK39LI,221364.0,Short Term,3058848.0,< 1 year,Home Mortgage,Home Improvements,45220.0
+LN-1001245,7PO3DT7QLO,55462.0,Short Term,517370.0,2 years,Rent,Buy a Car,4613.2
+LN-1001246,WOQA9QETXA,220704.0,Short Term,1012168.0,10+ years,Rent,Debt Consolidation,12989.54
+LN-1001247,UNONP0X5AW,99999999.0,L,1281455.0,5 years,Home Mortgage,Debt Consolidation,26056.22
+LN-1001248,XCNCGYQIJU,434588.0,Short Term,1407482.0,3 years,Rent,Debt Consolidation,14778.39
+LN-1001249,SSQVQSM15K,405812.0,Long Term,1168272.0,6 years,Rent,Debt Consolidation,17329.33
+LN-1001250,ZGLVEN9948,99999999.0,Short Term,2468024.0,10+ years,Own Home,Debt Consolidation,16309.41
+LN-1001251,2HKVN4LRFM,429044.0,Long Term,,10+ years,Rent,Debt Consolidation,21074.42
+LN-1001252,SRHM4O0BO1,289608.0,Long Term,1058167.0,7 years,Home Mortgage,Debt Consolidation,17988.82
+LN-1001253,GMLZELXB6P,646866.0,Long Term,5971871.0,10+ years,Home Mortgage,Debt Consolidation,80620.23
+LN-1001254,5HGTZL37RL,209902.0,Short Term,504070.0,2 years,Own Home,Debt Consolidation,7140.96
+LN-1001255,D3TUCZQMGJ,498850.0,Long Term,1115262.0,10+ years,Home Mortgage,Debt Consolidation,24350.02
+LN-1001256,D48H4V2M4W,228074.0,Long Term,811984.0,9 years,Home Mortgage,Debt Consolidation,16848.44
+LN-1001257,PJZZ4HGBJQ,207900.0,Short Term,1010154.0,10+ years,Home Mortgage,Debt Consolidation,16583.39
+LN-1001258,O9E7DF7KAP,193336.0,Short Term,853803.0,6 years,Own Home,Debt Consolidation,17787.61
+LN-1001259,GCB5Y2UZV0,453222.0,Long Term,1770705.0,4 years,Rent,Debt Consolidation,16231.32
+LN-1001260,SI7BSZTUL9,623942.0,Short Term,1685376.0,10+ years,Own Home,small_business,32022.22
+LN-1001261,6RD26UJFP9,176066.0,Short Term,,2 years,Rent,Debt Consolidation,10921.39
+LN-1001262,4OHK8VL31F,111848.0,Short Term,1007418.0,< 1 year,Rent,Debt Consolidation,13516.22
+LN-1001263,W7C132JNTM,99999999.0,Short Term,1491310.0,9 years,Home Mortgage,Debt Consolidation,29702.13
+LN-1001264,ZTDCAMP9SD,288178.0,Short Term,,10+ years,Home Mortgage,Debt Consolidation,12029.09
+LN-1001265,Z60K28EPVE,89078.0,Short Term,519251.0,< 1 year,Rent,Debt Consolidation,4759.88
+LN-1001266,7NYFW0EDZX,389620.0,LT,,6 years,Rent,Home Improvements,1867.13
+LN-1001267,S1F8SU2ZC1,531476.0,Short Term,,10+ years,Home Mortgage,Debt Consolidation,30122.6
+LN-1001268,6CUNXV2SAB,307626.0,Long Term,2960447.0,10+ years,Home Mortgage,Debt Consolidation,25163.79
+LN-1001269,7TM4VHGCMR,111958.0,Short Term,615790.0,3 years,Rent,other,13906.48
+LN-1001270,89J3GGHFTD,301488.0,Long Term,1060789.0,7 years,Rent,Debt Consolidation,17502.8
+LN-1001271,VH3QAXFJBT,99999999.0,Short Term,815784.0,< 1 year,Own Home,Debt Consolidation,10469.0
+LN-1001272,BXTDF8TYVT,108570.0,Short Term,787626.0,9 years,Rent,Debt Consolidation,3675.55
+LN-1001273,SEOVMJXCLI,99999999.0,Short Term,1131564.0,4 years,Rent,Debt Consolidation,18010.67
+LN-1001274,2L78X8YUYT,261646.0,Long Term,939246.0,2 years,Rent,Debt Consolidation,14871.49
+LN-1001275,ZTXGD7K6ZB,77000.0,Short Term,2603266.0,3 years,Home Mortgage,other,29286.6
+LN-1001276,V430W7CWXO,779790.0,Short Term,1654748.0,4 years,Home Mortgage,Home Improvements,10204.33
+LN-1001277,7VD7X38ETB,322850.0,Short Term,774516.0,< 1 year,Rent,Debt Consolidation,21428.39
+LN-1001278,OBB8UZBQIB,177188.0,Short Term,1530184.0,2 years,Rent,Debt Consolidation,30476.19
+LN-1001279,YRM9LAR6PI,99999999.0,Short Term,1719918.0,10+ years,Home Mortgage,Debt Consolidation,23118.63
+LN-1001280,2LK3SFJ1E9,327272.0,Short Term,1280695.0,10+ years,Rent,Debt Consolidation,25080.19
+LN-1001281,86OOI4NW8B,365882.0,Long Term,1858770.0,10+ years,Rent,Debt Consolidation,11446.93
+LN-1001282,K7TQT622HX,389268.0,Short Term,,10+ years,Home Mortgage,Business Loan,32809.39
+LN-1001283,99LA3UGOFV,203104.0,Short Term,442111.0,8 years,Own Home,Debt Consolidation,11715.97
+LN-1001284,KE1QXSY8NY,99999999.0,Short Term,1345998.0,10+ years,Home Mortgage,other,18395.42
+LN-1001285,XBGXAYZWXM,262988.0,Long Term,946390.0,10+ years,Home Mortgage,Debt Consolidation,20899.43
+LN-1001286,X5L9TJKBJL,99999999.0,Short Term,1310582.0,5 years,Home Mortgage,Debt Consolidation,17911.3
+LN-1001287,NPEC809HZL,218592.0,Short Term,906167.0,2 years,Rent,Buy House,7158.63
+LN-1001288,0EEHXL4Z5S,173096.0,Short Term,1065140.0,10+ years,Home Mortgage,Debt Consolidation,8112.81
+LN-1001289,FZI2JWRKTX,33198.0,Short Term,764408.0,9 years,Home Mortgage,Debt Consolidation,8153.66
+LN-1001290,KEXQDJAFDJ,336512.0,Short Term,,10+ years,Home Mortgage,Debt Consolidation,7831.99
+LN-1001291,J4CD4D705L,33330.0,Short Term,686679.0,2 years,Rent,Educational Expenses,7668.02
+LN-1001292,KEEWJRQ7ZO,432036.0,L,1476927.0,10+ years,Rent,Debt Consolidation,22153.81
+LN-1001293,9KSYRGAN9Z,,,,,,,
+LN-1001294,3RQD76H01J,447216.0,Long Term,1448370.0,10+ years,Own Home,Debt Consolidation,14725.19
+LN-1001295,77DP3YLMJW,172722.0,Short Term,652631.0,6 years,Rent,Debt Consolidation,9299.93
+LN-1001296,XVKQU0NH0W,99999999.0,Short Term,1828826.0,1 year,Home Mortgage,Debt Consolidation,18897.78
+LN-1001297,FB8N5E0CQM,434808.0,Long Term,1746157.0,3 years,Rent,Debt Consolidation,12907.08
+LN-1001298,8PKM5CNMSK,205216.0,Short Term,,1 year,Rent,Debt Consolidation,8904.35
+LN-1001299,8XUEH92WBC,258412.0,Short Term,1022846.0,10+ years,Rent,Medical Bills,19689.7
+LN-1001300,2A3UFNL4IY,99999999.0,Short Term,1164282.0,10+ years,Own Home,Debt Consolidation,20083.95
+LN-1001301,XMGVLT3GVE,173140.0,Short Term,1775759.0,< 1 year,Rent,Debt Consolidation,12829.94
+LN-1001302,G6CCSDPKA7,436612.0,Long Term,1862741.0,10+ years,Home Mortgage,Debt Consolidation,35857.94
+LN-1001303,R0WXHPSG77,156530.0,Short Term,645088.0,10+ years,Rent,Debt Consolidation,9246.35
+LN-1001304,PX76HR10C3,399762.0,Long Term,1436628.0,10+ years,Home Mortgage,Debt Consolidation,26098.59
+LN-1001305,7OO0SOC33W,216810.0,Short Term,1835001.0,6 years,Home Mortgage,Debt Consolidation,6024.9
+LN-1001306,TVE7MLKF6M,428450.0,Long Term,824372.0,< 1 year,Home Mortgage,Debt Consolidation,21021.6
+LN-1001307,D21FVXDLZO,540320.0,Short Term,1213264.0,10+ years,Rent,Debt Consolidation,20423.29
+LN-1001308,Y1R3Q7B3UO,162888.0,Short Term,937840.0,< 1 year,Rent,Debt Consolidation,17897.24
+LN-1001309,35Y84GUL7T,535920.0,Long Term,1062442.0,3 years,Home Mortgage,other,28863.28
+LN-1001310,VSYP9JPN3D,786940.0,Long Term,,9 years,Home Mortgage,Home Improvements,23382.54
+LN-1001311,QFP3J31AWU,529298.0,Long Term,1032973.0,10+ years,Rent,Debt Consolidation,22294.98
+LN-1001312,LB7QYE6PJ6,213994.0,Short Term,,1 year,Rent,Debt Consolidation,10467.48
+LN-1001313,CMTJTF10R8,131780.0,Short Term,1281531.0,6 years,Home Mortgage,Debt Consolidation,26912.17
+LN-1001314,81SZWDMMDX,176902.0,Short Term,1129132.0,1 year,Rent,Debt Consolidation,10849.0
+LN-1001315,OEAIS5LL4W,137764.0,Short Term,1381680.0,6 years,Own Home,Debt Consolidation,23373.42
+LN-1001316,8BYWLV8J3F,177430.0,Short Term,390659.0,,Rent,Debt Consolidation,12045.43
+LN-1001317,Y5H9U1YVD6,772926.0,Long Term,1926296.0,2 years,Rent,Debt Consolidation,54417.71
+LN-1001318,IETKUPKL0F,99999999.0,Short Term,567663.0,3 years,Rent,Debt Consolidation,11069.4
+LN-1001319,OE2KZWKZK2,123618.0,Long Term,1261676.0,1 year,Own Home,Debt Consolidation,11355.16
+LN-1001320,BHF74BLIS9,195690.0,Short Term,,2 years,Rent,Debt Consolidation,10068.29
+LN-1001321,NEBSQLZMU6,176154.0,Short Term,,1 year,Home Mortgage,Debt Consolidation,7345.4
+LN-1001322,I06Z56UKJ1,377740.0,Long Term,1039338.0,7 years,Rent,Business Loan,16196.36
+LN-1001323,OR5BAYOUVI,429836.0,Short Term,1092101.0,3 years,Home Mortgage,Debt Consolidation,17291.52
+LN-1001324,09P2T3ABR2,242550.0,Short Term,856976.0,9 years,Rent,Debt Consolidation,12783.01
+LN-1001325,J160TEP1PH,188232.0,Short Term,1258047.0,3 years,Rent,Debt Consolidation,5535.46
+LN-1001326,15HO47QAZ3,217404.0,Short Term,1783701.0,< 1 year,Home Mortgage,Debt Consolidation,21107.1
+LN-1001327,SJMS05L1Z1,191928.0,Short Term,,< 1 year,Rent,Debt Consolidation,5154.7
+LN-1001328,BYO3SYZZ0F,103048.0,Short Term,2317525.0,5 years,Rent,Debt Consolidation,13924.34
+LN-1001329,HJEII72CY2,237864.0,Short Term,570627.0,< 1 year,Rent,Business Loan,190.19
+LN-1001330,F8UQENH1M4,111276.0,Long Term,676039.0,< 1 year,Home Mortgage,Debt Consolidation,11475.81
+LN-1001331,IABAPRAJXO,53768.0,Short Term,,3 years,Rent,Other,8129.53
+LN-1001332,AVS5HWQ1F6,129536.0,Short Term,907421.0,8 years,Rent,Debt Consolidation,21778.18
+LN-1001333,2PKUKE7U2J,359480.0,Short Term,907250.0,10+ years,Home Mortgage,Debt Consolidation,18825.58
+LN-1001334,WM8S9077H1,,,,,,,
+LN-1001335,QYN4LN4GVP,320870.0,Short Term,651871.0,,Rent,Buy House,1950.16
+LN-1001336,HYJWU0FOEG,50490.0,Short Term,300105.0,8 years,Rent,Debt Consolidation,7077.5
+LN-1001337,LUJ6U4H4XN,540430.0,Long Term,1680246.0,10+ years,Home Mortgage,Debt Consolidation,27163.92
+LN-1001338,MT314QOUMP,386892.0,Short Term,2320375.0,2 years,Home Mortgage,Debt Consolidation,36932.58
+LN-1001339,2G6ZLMG4NM,432432.0,Short Term,2054052.0,3 years,Rent,Debt Consolidation,46900.93
+LN-1001340,PEOUFG81VZ,34870.0,Short Term,,4 years,Rent,Debt Consolidation,7579.48
+LN-1001341,VWOY0N0XUX,214544.0,Short Term,,1 year,Home Mortgage,other,13773.1
+LN-1001342,JMCL871PCK,224730.0,Short Term,2911275.0,9 years,Home Mortgage,Medical Bills,7035.51
+LN-1001343,TNAJXLLNQ7,265606.0,Short Term,2293908.0,3 years,Home Mortgage,other,19058.52
+LN-1001344,ECPE0U1K87,398882.0,Long Term,1317042.0,10+ years,Home Mortgage,Debt Consolidation,33584.78
+LN-1001345,TSFQ0I12Y3,218196.0,Short Term,,4 years,Home Mortgage,Debt Consolidation,25282.73
+LN-1001346,VQQG2TI8UW,537196.0,Short Term,,< 1 year,Rent,Other,19923.4
+LN-1001347,2A2Q484759,510290.0,Short Term,1312710.0,2 years,Home Mortgage,Debt Consolidation,23300.65
+LN-1001348,JMLG5JKZVV,231044.0,Short Term,1064209.0,1 year,Rent,Debt Consolidation,15963.23
+LN-1001349,0M5QREE8JN,279004.0,Short Term,795359.0,10+ years,Home Mortgage,Debt Consolidation,7887.47
+LN-1001350,MJSPBH9VVE,258698.0,Short Term,1768729.0,< 1 year,Home Mortgage,Debt Consolidation,16360.71
+LN-1001351,UJK8JMIU31,214588.0,Short Term,1667934.0,< 1 year,Home Mortgage,other,12620.75
+LN-1001352,XQP7GXJYRE,105534.0,Short Term,1157442.0,,Home Mortgage,Debt Consolidation,13021.27
+LN-1001353,U0H0ZX23DZ,456412.0,Long Term,796936.0,8 years,Rent,Debt Consolidation,16137.84
+LN-1001354,LIBZCFER15,111100.0,Short Term,767600.0,1 year,Rent,other,4394.51
+LN-1001355,FT2GOP7M4Y,99999999.0,Short Term,968050.0,10+ years,Home Mortgage,Debt Consolidation,20167.74
+LN-1001356,ZGE0H8QTH8,204974.0,ST,1332470.0,2 years,Rent,Debt Consolidation,17544.41
+LN-1001357,LL8332A1NI,161678.0,Short Term,1648440.0,10+ years,Home Mortgage,Debt Consolidation,40523.77
+LN-1001358,IIJKIH4BOK,473682.0,Long Term,,10+ years,Home Mortgage,Debt Consolidation,72339.46
+LN-1001359,MRGI12NJVN,266684.0,Long Term,1919380.0,10+ years,Home Mortgage,Debt Consolidation,32149.71
+LN-1001360,12TI9DXDR4,134860.0,Short Term,,6 years,Home Mortgage,Debt Consolidation,20856.49
+LN-1001361,7GXGWY953H,328922.0,Long Term,1704357.0,2 years,Rent,Debt Consolidation,15623.32
+LN-1001362,6KVS508R9W,,,,,,,
+LN-1001363,7S70MT9V2Q,290004.0,Short Term,1047508.0,8 years,Home Mortgage,Debt Consolidation,30028.55
+LN-1001364,EQVLJ4KW8S,139964.0,Short Term,1152160.0,5 years,Home Mortgage,Debt Consolidation,7498.73
+LN-1001365,PPRTUJID5A,240526.0,Short Term,2454933.0,10+ years,Home Mortgage,Debt Consolidation,25776.73
+LN-1001366,MNUNXFC6F4,87252.0,Short Term,659414.0,1 year,Home Mortgage,Debt Consolidation,15606.03
+LN-1001367,L34HL45ZRK,,,,,,,
+LN-1001368,4C7R8TDMYL,218988.0,Long Term,472815.0,8 years,Rent,Debt Consolidation,5673.78
+LN-1001369,Y2MHAUTK2R,183480.0,Short Term,1452474.0,5 years,Rent,Debt Consolidation,39095.54
+LN-1001370,1PX4A3OV7E,33264.0,ST,766308.0,2 years,Rent,Debt Consolidation,9323.49
+LN-1001371,YIN63WZGX8,,,,,,,
+LN-1001372,EPB1P6R4XC,379082.0,Short Term,935370.0,1 year,Home Mortgage,Debt Consolidation,6415.16
+LN-1001373,T1X6YNT4B4,202664.0,Short Term,1871880.0,10+ years,Home Mortgage,Debt Consolidation,31665.97
+LN-1001374,Y0NVD1F7OM,270446.0,Long Term,648774.0,10+ years,Home Mortgage,Debt Consolidation,15300.32
+LN-1001375,SJ0X470RGJ,83424.0,Short Term,452029.0,10+ years,Rent,Debt Consolidation,9266.68
+LN-1001376,GK1ZLVCAQ7,440132.0,Long Term,,10+ years,Home Mortgage,Home Improvements,18055.51
+LN-1001377,7S781D8T6Z,223960.0,Short Term,1779464.0,3 years,Home Mortgage,Debt Consolidation,19722.38
+LN-1001378,9K4CJZZJV5,132000.0,Short Term,,10+ years,Home Mortgage,Debt Consolidation,16884.73
+LN-1001379,RTKIIESLXQ,437712.0,Long Term,1052733.0,10+ years,Rent,Debt Consolidation,14825.89
+LN-1001380,9NKWDTGHYL,99999999.0,Long Term,512183.0,1 year,Own Home,Debt Consolidation,7810.71
+LN-1001381,WNXSJ8WGG8,154000.0,Short Term,988000.0,1 year,Rent,major_purchase,15149.27
+LN-1001382,0D9RRA7LBZ,181148.0,Short Term,812915.0,10+ years,Home Mortgage,Debt Consolidation,13480.69
+LN-1001383,26ESKWY4LO,,,,,,,
+LN-1001384,DZ4ZT3OFX8,218482.0,Short Term,905711.0,10+ years,Rent,Debt Consolidation,11321.34
+LN-1001385,F609ZGEN7Y,489390.0,S,,2 years,Own Home,Debt Consolidation,19135.47
+LN-1001386,S0XWQUTDP6,97856.0,Short Term,,10+ years,Home Mortgage,Debt Consolidation,9430.08
+LN-1001387,0BZ4IJW8PN,432960.0,Long Term,1519050.0,9 years,Rent,Debt Consolidation,13544.91
+LN-1001388,6KHW38OYMA,519816.0,Long Term,,4 years,Home Mortgage,Debt Consolidation,16233.22
+LN-1001389,M0O1BTI0CE,625086.0,Long Term,1229072.0,10+ years,Own Home,Debt Consolidation,21303.94
+LN-1001390,B1C3PVHWFZ,763378.0,Short Term,2354575.0,10+ years,Home Mortgage,Debt Consolidation,34533.64
+LN-1001391,MIOWEYKB4X,99999999.0,Short Term,742520.0,6 years,Rent,Debt Consolidation,6187.54
+LN-1001392,Z7CA4Z10AM,392282.0,Short Term,,4 years,Rent,Debt Consolidation,46410.35
+LN-1001393,4TM9J0HRCO,292666.0,Long Term,825303.0,10+ years,Rent,Debt Consolidation,20632.48
+LN-1001394,08K6S4C4M4,,,,,,,
+LN-1001395,W82038ZPNB,99999999.0,Long Term,995011.0,4 years,Rent,Debt Consolidation,19071.06
+LN-1001396,68IN77NHWK,99999999.0,Short Term,1042910.0,6 years,Home Mortgage,Debt Consolidation,17555.62
+LN-1001397,PLE5UP3BKN,442904.0,Long Term,918023.0,7 years,Rent,Debt Consolidation,7956.25
+LN-1001398,OW2OCHUC1B,351186.0,Long Term,1745948.0,4 years,Home Mortgage,Home Improvements,1891.45
+LN-1001399,DUKYHL6WM3,345334.0,Short Term,1731717.0,7 years,Home Mortgage,Debt Consolidation,16451.34
+LN-1001400,IDI8CASYQU,99999999.0,Long Term,556035.0,5 years,Rent,Debt Consolidation,11306.14
+LN-1001401,B8KBBM67CQ,65054.0,Short Term,1123470.0,10+ years,Rent,other,31831.65
+LN-1001402,XF6Q1DR4DX,130130.0,Short Term,1311247.0,2 years,Rent,Debt Consolidation,10205.85
+LN-1001403,VPC1TFXV0V,64504.0,Short Term,1299942.0,10+ years,Home Mortgage,Medical Bills,23073.98
+LN-1001404,HLC9OPXI57,207724.0,Short Term,1121190.0,10+ years,Rent,vacation,26815.08
+LN-1001405,AC4N68YFYB,756756.0,Short Term,1793980.0,,Home Mortgage,Debt Consolidation,20331.71
+LN-1001406,C16R0H4JZK,309914.0,Long Term,,6 years,Home Mortgage,Debt Consolidation,20732.61
+LN-1001407,D2SU9MNL69,443212.0,Long Term,880384.0,10+ years,Home Mortgage,Debt Consolidation,14452.92
+LN-1001408,OVZ4XPQQRR,262570.0,Short Term,1814158.0,3 years,Rent,Debt Consolidation,13258.39
+LN-1001409,UH50TWI15B,99999999.0,Short Term,2368597.0,10+ years,Own Home,Debt Consolidation,18810.57
+LN-1001410,GQFZ5VLROU,111474.0,Short Term,1578881.0,7 years,Home Mortgage,Buy House,21314.77
+LN-1001411,ZPSQ38KRB7,176572.0,Short Term,2668778.0,8 years,Home Mortgage,Debt Consolidation,19993.51
+LN-1001412,QNHTORDASA,324566.0,Long Term,1829757.0,3 years,Home Mortgage,other,8676.16
+LN-1001413,PH2J8XTL5W,435028.0,Long Term,1822176.0,7 years,Rent,small_business,17523.32
+LN-1001414,LLNLIIKC0Q,121110.0,Short Term,,< 1 year,Rent,Debt Consolidation,10749.44
+LN-1001415,HIJ689V14I,269060.0,Short Term,1278073.0,6 years,Rent,Debt Consolidation,6411.74
+LN-1001416,8U6T5D4CYN,140118.0,Short Term,,6 years,Own Home,Debt Consolidation,649.8
+LN-1001417,J7QM9YENHA,306130.0,Short Term,660953.0,4 years,Rent,Debt Consolidation,10519.92
+LN-1001418,O3VSJYD9QO,336072.0,Long Term,,< 1 year,Rent,Debt Consolidation,28540.66
+LN-1001419,RBS8X3SZJ9,232364.0,Short Term,580260.0,5 years,Home Mortgage,Debt Consolidation,4506.61
+LN-1001420,T7MOSYTPOR,479798.0,Long Term,,< 1 year,Home Mortgage,Debt Consolidation,23935.63
+LN-1001421,CWQHZEW7X9,260612.0,Short Term,1219192.0,1 year,Rent,Debt Consolidation,14427.08
+LN-1001422,HJXRVDEEM2,179938.0,Short Term,,2 years,Rent,Debt Consolidation,6413.26
+LN-1001423,6MX83Q3DXS,442904.0,Long Term,1032764.0,4 years,Home Mortgage,Home Improvements,26679.99
+LN-1001424,PGSDRG206X,107448.0,Short Term,483360.0,1 year,Own Home,Debt Consolidation,10714.48
+LN-1001425,78CT3J84FM,618992.0,Long Term,1375809.0,10+ years,Home Mortgage,Debt Consolidation,28089.41
+LN-1001426,PX86425J0O,108878.0,Short Term,2127582.0,10+ years,Rent,Debt Consolidation,29076.84
+LN-1001427,36ADL2FO5N,216942.0,Short Term,786904.0,10+ years,Own Home,other,7672.39
+LN-1001428,RN7EFH1AK7,393228.0,Long Term,1622562.0,5 years,Rent,Debt Consolidation,14603.02
+LN-1001429,PBBXFS52CD,193050.0,Short Term,,10+ years,Home Mortgage,major_purchase,12269.25
+LN-1001430,XFXA0QJEMZ,269302.0,Long Term,657818.0,10+ years,Rent,Debt Consolidation,8661.15
+LN-1001431,LU3TG4INOK,450824.0,Long Term,2044077.0,10+ years,Rent,Debt Consolidation,33216.18
+LN-1001432,J1P9YR7MUX,213642.0,Short Term,1153224.0,10+ years,Home Mortgage,Debt Consolidation,13069.91
+LN-1001433,PFF8TIQ5OH,392260.0,Long Term,762090.0,10+ years,Home Mortgage,Home Improvements,18798.22
+LN-1001434,LMS9YU6GX5,324786.0,Short Term,607753.0,10+ years,Own Home,Debt Consolidation,5773.53
+LN-1001435,VPHOXSKL2W,526658.0,L,988969.0,5 years,Home Mortgage,Home Improvements,28103.28
+LN-1001436,NB8MT1CZRA,198110.0,Short Term,760380.0,2 years,Rent,Debt Consolidation,11088.78
+LN-1001437,F2T33GWHC9,753610.0,Long Term,2495498.0,10+ years,Rent,Debt Consolidation,21211.6
+LN-1001438,PH7GUIAJ35,225148.0,Short Term,1691684.0,10+ years,Own Home,Debt Consolidation,23260.56
+LN-1001439,0CV5GEDKCC,432608.0,Short Term,1064798.0,5 years,Rent,Debt Consolidation,27241.25
+LN-1001440,7VVWQ214A1,66770.0,Short Term,968715.0,4 years,Home Mortgage,Home Improvements,8016.1
+LN-1001441,BD4I2WPQTY,110902.0,Short Term,2106929.0,10+ years,Own Home,Home Improvements,5899.31
+LN-1001442,PGGG7C5P90,,,,,,,
+LN-1001443,T45MVGL9RL,154704.0,Long Term,1336118.0,10+ years,Rent,Buy House,15844.29
+LN-1001444,4GUZ6UG6DE,99999999.0,LT,2696442.0,10+ years,Home Mortgage,Debt Consolidation,28087.89
+LN-1001445,KJTB5N2SCF,643566.0,Long Term,,9 years,Home Mortgage,Debt Consolidation,44486.79
+LN-1001446,WLUMZ2BC8U,263648.0,Short Term,2277036.0,10+ years,Home Mortgage,other,25806.37
+LN-1001447,ZL8Q8WM2DW,553630.0,Long Term,1422929.0,1 year,Home Mortgage,other,11833.96
+LN-1001448,9GL7EU704W,111078.0,Short Term,1390382.0,< 1 year,Rent,Debt Consolidation,20392.13
+LN-1001449,2WB9B995B9,219692.0,Short Term,,7 years,Rent,Debt Consolidation,15020.64
+LN-1001450,KEFV3069SM,435776.0,Short Term,1693584.0,10+ years,Home Mortgage,Debt Consolidation,15806.86
+LN-1001451,ADNKZP21GK,74338.0,Short Term,1439744.0,10+ years,Home Mortgage,other,33834.06
+LN-1001452,5E7HMJ6PH9,200684.0,Long Term,393490.0,6 years,Rent,Debt Consolidation,3410.31
+LN-1001453,0DLHAW2UXB,401698.0,Long Term,1638256.0,2 years,Home Mortgage,Debt Consolidation,33038.15
+LN-1001454,RQAX8ELNEX,335786.0,Short Term,773300.0,1 year,Rent,Debt Consolidation,6573.05
+LN-1001455,B9DGQYALJK,99999999.0,Short Term,826804.0,1 year,Rent,Debt Consolidation,11161.93
+LN-1001456,YKKKM4TL03,257554.0,Long Term,1109923.0,< 1 year,Home Mortgage,Debt Consolidation,32187.71
+LN-1001457,2GYHZG4CJH,178816.0,Short Term,896591.0,4 years,Rent,other,2854.18
+LN-1001458,WUTX5N32W5,,,,,,,
+LN-1001459,Q5FYOEBACH,99999999.0,Short Term,947340.0,1 year,Home Mortgage,Debt Consolidation,20367.81
+LN-1001460,1CJY5K1M7M,131956.0,Short Term,512791.0,10+ years,Rent,Business Loan,6076.58
+LN-1001461,OWX9UXLD28,764390.0,Short Term,2753746.0,10+ years,Home Mortgage,Debt Consolidation,29373.24
+LN-1001462,4EZMIWHF9Y,271788.0,Long Term,558885.0,2 years,Own Home,Debt Consolidation,6893.01
+LN-1001463,57A6QIFSR9,67188.0,Short Term,,5 years,Rent,Debt Consolidation,2408.25
+LN-1001464,IPCCOITKLK,22506.0,Short Term,1428895.0,10+ years,Home Mortgage,Debt Consolidation,30126.02
+LN-1001465,FINXZV1AAW,99999999.0,Short Term,1424867.0,10+ years,Own Home,other,3015.87
+LN-1001466,ZNN60DYVLM,225236.0,Short Term,,6 years,Home Mortgage,Debt Consolidation,29032.38
+LN-1001467,GOJI5MYP2B,310860.0,Short Term,989520.0,1 year,Own Home,Debt Consolidation,8658.3
+LN-1001468,AWVATWP59G,,,,,,,
+LN-1001469,E76JP4XQM5,455708.0,Long Term,,10+ years,Home Mortgage,Debt Consolidation,13201.2
+LN-1001470,41DO2NJBQJ,225852.0,S,,,Home Mortgage,Home Improvements,22695.12
+LN-1001471,MZZU8N9SD2,177518.0,Short Term,804859.0,5 years,Rent,Debt Consolidation,19920.36
+LN-1001472,8LWM6TPNPB,654852.0,Long Term,,5 years,Rent,Debt Consolidation,32156.55
+LN-1001473,GEE3GPZ9NO,217558.0,Short Term,939455.0,10+ years,Home Mortgage,other,9551.11
+LN-1001474,A9KKIEQ6NU,676434.0,Long Term,2781885.0,3 years,Home Mortgage,other,26427.86
+LN-1001475,OVITXDHKUV,95590.0,Short Term,1305566.0,3 years,Home Mortgage,Home Improvements,19692.36
+LN-1001476,GZ7SNIHKSG,53790.0,Short Term,677369.0,,Rent,Take a Trip,16482.69
+LN-1001477,LUR73IWIJQ,350988.0,Long Term,1098808.0,< 1 year,Rent,Debt Consolidation,19137.56
+LN-1001478,5QA6OUGCC5,72424.0,Short Term,786695.0,8 years,Home Mortgage,Debt Consolidation,7604.75
+LN-1001479,VRBGSRNNJ5,448272.0,Long Term,1045285.0,10+ years,Home Mortgage,Debt Consolidation,16289.08
+LN-1001480,WD6H6BK7KL,267718.0,Long Term,1970642.0,10+ years,Rent,Debt Consolidation,23483.43
+LN-1001481,ZCV8G7H9GS,268004.0,Short Term,,1 year,Rent,Debt Consolidation,5770.68
+LN-1001482,7DHFJF1A84,99999999.0,Long Term,826405.0,3 years,Own Home,other,5185.67
+LN-1001483,DM0XKSEMZW,216370.0,Short Term,,< 1 year,Rent,Debt Consolidation,14626.77
+LN-1001484,0TUGW5FB7A,269852.0,Long Term,,< 1 year,Rent,Debt Consolidation,6852.54
+LN-1001485,95YI2EJ05A,251592.0,Long Term,980400.0,10+ years,Home Mortgage,other,12908.6
+LN-1001486,XDEZ22I81U,99999999.0,Short Term,1654482.0,10+ years,Home Mortgage,Debt Consolidation,14063.23
+LN-1001487,IIODXKT504,99999999.0,Short Term,3039088.0,10+ years,Own Home,Debt Consolidation,14967.63
+LN-1001488,2BADLPIJEW,293546.0,Short Term,1690050.0,6 years,Rent,Debt Consolidation,15351.24
+LN-1001489,LNQLQ52FPL,526636.0,Short Term,,3 years,Rent,Debt Consolidation,23100.77
+LN-1001490,YSS1WL4SW5,32340.0,Short Term,,9 years,Rent,Other,2774.19
+LN-1001491,L2RYJ09XHR,352814.0,Short Term,,10+ years,Own Home,Debt Consolidation,11380.81
+LN-1001492,BQ2I5NUNGM,225434.0,Short Term,,3 years,Home Mortgage,Debt Consolidation,11586.2
+LN-1001493,TVRDOEX24K,329714.0,Short Term,,2 years,Rent,Debt Consolidation,15850.75
+LN-1001494,ZVK4NLNRR8,301774.0,Long Term,1116972.0,9 years,Home Mortgage,Debt Consolidation,10797.32
+LN-1001495,FUR83ZQ3DB,346610.0,Short Term,,1 year,Rent,Debt Consolidation,26402.59
+LN-1001496,J4DUUPXHH7,146520.0,Short Term,1265381.0,10+ years,Home Mortgage,Medical Bills,33743.43
+LN-1001497,1C3591O3RK,434192.0,Short Term,3093618.0,< 1 year,Rent,Debt Consolidation,39701.45
+LN-1001498,NZ9GFVHYFC,438284.0,Short Term,,10+ years,Rent,Debt Consolidation,25643.16
+LN-1001499,X9AHVU46I2,335456.0,Long Term,967290.0,8 years,Home Mortgage,Debt Consolidation,14912.34
+LN-1001500,B7IMW22BXJ,,,,,,,
